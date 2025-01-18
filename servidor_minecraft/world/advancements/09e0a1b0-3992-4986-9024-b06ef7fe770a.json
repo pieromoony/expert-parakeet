@@ -695,7 +695,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "blastfurnace": "2024-09-04 03:48:11 +0000"
+      "blastfurnace": "2024-09-04 03:48:11 +0000",
+      "stonecutter": "2025-01-18 08:22:49 +0000"
     },
     "done": false
   },
