@@ -160,6 +160,7 @@
 			sweet_blossom = true
 			frosty_blossom = true
 			warm_blossom = true
+			ancient = true
 
 		[types.leaves_type.fossilsorigins]
 			ancient = true
@@ -286,6 +287,9 @@
 			leaf_carpet = true
 
 		[entries.leaves_type.mcwfences]
+			hedge = true
+
+		[entries.leaves_type.refurbished_furniture]
 			hedge = true
 
 	[entries.wood_type]
@@ -617,4 +621,69 @@
 
 		[entries.wood_type.friendsandfoes]
 			beehive = true
+
+		[entries.wood_type.handcrafted]
+			fancy_bed = true
+			dining_bench = true
+			drawer = true
+			couch = true
+			bench = true
+			counter = true
+			corner_trim = true
+			desk = true
+			side_table = true
+			board = true
+			drawer_4 = true
+			drawer_1 = true
+			table = true
+			drawer_3 = true
+			chair = true
+			drawer_2 = true
+			shelf = true
+			cupboard = true
+			cupboard_2 = true
+			cupboard_1 = true
+			pillar_trim = true
+			nightstand = true
+			shelf_1 = true
+			counter_1 = true
+			counter_2 = true
+			counter_3 = true
+
+		[entries.wood_type.refurbished_furniture]
+			storage_cabinet = true
+			desk = true
+			cutting_board = true
+			lattice_fence = true
+			basin = true
+			kitchen_drawer = true
+			kitchen_cabinetry = true
+			chair = true
+			light_ceiling_fan = true
+			table = true
+			mail_box = true
+			kitchen_storage_cabinet = true
+			storage_jar = true
+			drawer = true
+			kitchen_sink = true
+			toilet = true
+			crate = true
+			dark_ceiling_fan = true
+			lattice_fence_gate = true
+			bath = true
+
+		[entries.wood_type.dawnoftimebuilder]
+			planks_plate = true
+			footstool = true
+			planks_edge = true
+			couch = true
+			support_slab = true
+			fancy_fence = true
+			support_beam = true
+			low_table = true
+			lattice = true
+			beam = true
+			wall = true
+			legless_chair = true
+			pergola = true
 

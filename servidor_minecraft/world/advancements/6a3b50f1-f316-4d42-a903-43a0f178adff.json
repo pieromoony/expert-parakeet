@@ -5,6 +5,18 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/hellbark": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/dead_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
@@ -86,6 +98,24 @@
   "tombstone:adventure/halloween": {
     "criteria": {
       "coded_trigger": "2024-10-25 05:55:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/umbran": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/flowering_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/orange_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
@@ -183,6 +213,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/pink_cherry_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
@@ -290,6 +326,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/palm": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "endrem:main/undead_eye_recipe": {
     "criteria": {
       "soul": "2024-08-27 04:17:16 +0000"
@@ -320,6 +362,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartyradio": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
@@ -338,6 +386,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/magic": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "beachparty:beach_hat": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
@@ -347,6 +401,18 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-08-27 02:58:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
@@ -395,6 +461,12 @@
   "beachparty:tiki_chair": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
@@ -498,9 +570,21 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2024-11-04 01:41:08 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
@@ -739,6 +823,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/fir": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-11-21 09:38:23 +0000"
@@ -920,6 +1010,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/willow": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
@@ -986,6 +1082,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/dead": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2024-08-27 02:58:23 +0000"
@@ -1046,6 +1148,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-08-27 02:58:36 +0000"
@@ -1079,6 +1187,12 @@
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2024-08-27 02:58:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
@@ -1232,6 +1346,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/yellow_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "beachparty:table": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
@@ -1334,6 +1454,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/redwood": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-14 11:57:14 +0000",
@@ -1396,9 +1522,27 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "dungeons_plus:adventure/find_tower": {
     "criteria": {
       "in_structure": "2024-08-27 06:24:16 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/cherry": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
@@ -1488,6 +1632,12 @@
     },
     "done": true
   },
+  "mcwfencesbop:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2024-11-14 10:18:09 +0000"
@@ -1497,6 +1647,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2024-08-27 03:19:12 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
@@ -1515,6 +1671,12 @@
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2024-08-27 06:05:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/mahogany": {
+    "criteria": {
+      "has_acacia": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
@@ -1587,6 +1749,18 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/white_cherry_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-01-20 09:27:57 +0000"
     },
     "done": true
   },
