@@ -3460,3 +3460,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [24Jan2025 04:00:54.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DylanDirnt[/100.94.248.14:58521] logged in with entity id 3240 at (2508.721815417187, 104.0, -6349.429162078597)
 [24Jan2025 04:00:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt joined the game
 [24Jan2025 04:00:54.575] [Server thread/INFO] [Jade/]: Syncing config to DylanDirnt (09e0a1b0-3992-4986-9024-b06ef7fe770a)
+[24Jan2025 04:01:24.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DylanDirnt lost connection: Timed out
+[24Jan2025 04:01:24.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt left the game
+[24Jan2025 04:03:41.616] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.94.248.14:58563 lost connection: Disconnected
