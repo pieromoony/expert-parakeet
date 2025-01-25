@@ -1016,6 +1016,14 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-01-25 00:26:05 +0000",
+      "wheat": "2025-01-25 00:26:35 +0000",
+      "carrot": "2025-01-25 00:26:23 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
@@ -1570,6 +1578,12 @@
       "sledge_hammer": "2024-11-14 10:18:09 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-25 00:26:35 +0000"
+    },
+    "done": true
   },
   "beachparty:beachpartypalm_button": {
     "criteria": {
