@@ -1118,6 +1118,12 @@
     },
     "done": true
   },
+  "furnish:a_fine_gourmet": {
+    "criteria": {
+      "chinese_plate": "2025-01-26 05:31:59 +0000"
+    },
+    "done": false
+  },
   "beachparty:mini_fridge": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
