@@ -512,6 +512,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/activate_zombie_horse_trap": {
+    "criteria": {
+      "friendsandfoes:activate_zombie_horse_trap": "2025-01-26 01:52:16 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/bark_on": {
     "criteria": {
       "wax_on": "2025-01-18 07:00:07 +0000"
@@ -1639,6 +1645,12 @@
   "beachparty:beachpartylounge_chair": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-26 02:00:36 +0000"
     },
     "done": true
   },
