@@ -740,6 +740,7 @@
       "minecraft:husk": "2024-09-04 06:44:09 +0000",
       "minecraft:vex": "2024-09-04 06:00:33 +0000",
       "minecraft:skeleton": "2024-09-04 05:04:59 +0000",
+      "minecraft:vindicator": "2025-01-26 04:14:44 +0000",
       "minecraft:magma_cube": "2024-09-04 05:07:03 +0000",
       "minecraft:spider": "2024-08-27 03:48:07 +0000",
       "minecraft:creeper": "2025-01-18 08:50:18 +0000",
@@ -787,6 +788,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-26 02:41:31 +0000"
     },
     "done": true
   },
@@ -1422,6 +1429,7 @@
       "minecraft:ocean": "2024-08-27 04:15:59 +0000",
       "minecraft:jungle": "2024-09-04 05:19:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-09-03 05:25:13 +0000",
+      "minecraft:flower_forest": "2025-01-26 04:11:53 +0000",
       "minecraft:old_growth_birch_forest": "2024-08-27 03:29:07 +0000",
       "minecraft:meadow": "2025-01-18 04:52:39 +0000",
       "minecraft:savanna": "2024-09-03 06:19:43 +0000",
