@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_dark_forest": "2025-01-26 01:44:01 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
@@ -452,6 +458,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-26 01:46:09 +0000"
+    },
+    "done": true
+  },
   "workshopsofdoom:find_quarry_or_mines": {
     "criteria": {
       "workshopsofdoom:plains_quarry": "2024-08-27 04:45:28 +0000"
@@ -512,6 +524,7 @@
       "wythers:humid_tropical_grassland": "2024-11-14 11:01:17 +0000",
       "wythers:tropical_forest": "2024-11-14 10:51:52 +0000",
       "wythers:jungle_river": "2024-11-14 10:52:11 +0000",
+      "wythers:underground": "2025-01-26 01:41:32 +0000",
       "wythers:subtropical_forest": "2024-11-14 11:48:49 +0000",
       "wythers:harvest_fields": "2025-01-25 01:12:34 +0000",
       "wythers:larch_taiga": "2024-11-21 08:38:09 +0000"
@@ -973,6 +986,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-01-26 01:46:12 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
@@ -1326,6 +1345,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-08-27 03:08:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-26 01:46:09 +0000"
     },
     "done": true
   },
