@@ -563,6 +563,7 @@
       "lavender_forest": "2025-01-18 04:56:38 +0000",
       "mediterranean_forest": "2024-09-03 06:18:57 +0000",
       "coniferous_forest": "2025-01-29 21:32:13 +0000",
+      "spider_nest": "2025-01-29 22:36:55 +0000",
       "dryland": "2024-09-04 06:31:11 +0000",
       "lush_desert": "2024-09-04 06:53:03 +0000",
       "redwood_forest": "2024-09-03 05:10:40 +0000",
@@ -1738,6 +1739,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-01-29 22:36:28 +0000"
     },
     "done": true
   },
