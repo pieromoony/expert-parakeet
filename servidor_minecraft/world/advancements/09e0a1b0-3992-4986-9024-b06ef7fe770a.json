@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-29 22:21:15 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
@@ -680,6 +686,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-08-27 03:46:38 +0000"
+    },
+    "done": true
+  },
+  "fossilsorigins:unearthed_secrets": {
+    "criteria": {
+      "unearthed_secrets": "2025-01-29 22:17:28 +0000"
     },
     "done": true
   },
