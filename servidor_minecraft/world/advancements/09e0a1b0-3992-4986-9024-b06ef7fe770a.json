@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-29 21:45:09 +0000"
+    },
+    "done": true
+  },
   "beachparty:tiki_chair": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
@@ -481,6 +487,7 @@
       "wythers:badlands_river": "2024-09-04 06:30:00 +0000",
       "wythers:calcite_coast": "2025-01-18 03:44:06 +0000",
       "wythers:temperate_island": "2025-01-18 03:47:00 +0000",
+      "wythers:forbidden_forest": "2025-01-29 20:56:18 +0000",
       "wythers:coastal_mangroves": "2024-09-03 05:29:11 +0000",
       "wythers:badlands_desert": "2024-09-04 06:52:35 +0000",
       "wythers:sand_dunes": "2025-01-18 03:45:17 +0000",
@@ -549,6 +556,7 @@
       "wooded_scrubland": "2024-09-04 07:45:15 +0000",
       "lavender_forest": "2025-01-18 04:56:38 +0000",
       "mediterranean_forest": "2024-09-03 06:18:57 +0000",
+      "coniferous_forest": "2025-01-29 21:32:13 +0000",
       "dryland": "2024-09-04 06:31:11 +0000",
       "lush_desert": "2024-09-04 06:53:03 +0000",
       "redwood_forest": "2024-09-03 05:10:40 +0000",
@@ -556,6 +564,7 @@
       "rocky_rainforest": "2024-09-03 05:30:12 +0000",
       "lavender_field": "2024-09-03 05:36:56 +0000",
       "grassland": "2024-08-27 03:19:01 +0000",
+      "glowing_grotto": "2025-01-29 21:40:25 +0000",
       "rainforest": "2024-08-27 04:33:34 +0000"
     },
     "done": false
@@ -1274,6 +1283,18 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-08-27 03:49:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-29 21:45:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-29 21:34:03 +0000"
     },
     "done": true
   },
