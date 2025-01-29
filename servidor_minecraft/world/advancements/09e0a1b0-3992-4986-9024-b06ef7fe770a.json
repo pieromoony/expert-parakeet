@@ -1443,6 +1443,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-01-29 22:48:29 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
