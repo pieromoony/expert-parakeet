@@ -1233,6 +1233,12 @@
     },
     "done": true
   },
+  "buildersdelight:recipes/iron_chisel": {
+    "criteria": {
+      "unlock": "2025-01-29 23:22:41 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:00:28 +0000"
