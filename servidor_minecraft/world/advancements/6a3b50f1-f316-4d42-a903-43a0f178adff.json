@@ -520,6 +520,7 @@
       "wythers:black_river": "2025-01-26 07:07:39 +0000",
       "wythers:autumnal_plains": "2025-01-25 01:10:05 +0000",
       "wythers:forest_edge": "2025-01-25 00:52:04 +0000",
+      "wythers:icy_crags": "2025-01-29 23:45:45 +0000",
       "wythers:autumnal_forest": "2025-01-25 00:56:57 +0000",
       "wythers:autumnal_forest_edge": "2025-01-26 01:54:05 +0000",
       "wythers:highland_tropical_rainforest": "2024-11-14 11:52:56 +0000",
@@ -532,6 +533,7 @@
       "wythers:humid_tropical_grassland": "2024-11-14 11:01:17 +0000",
       "wythers:tropical_forest": "2024-11-14 10:51:52 +0000",
       "wythers:jungle_river": "2024-11-14 10:52:11 +0000",
+      "wythers:snowy_tundra": "2025-01-29 23:45:47 +0000",
       "wythers:cool_plains": "2025-01-26 02:00:43 +0000",
       "wythers:underground": "2025-01-26 01:41:32 +0000",
       "wythers:cool_forest": "2025-01-26 01:53:42 +0000",
@@ -596,6 +598,7 @@
       "seasonal_forest": "2025-01-29 21:26:55 +0000",
       "rocky_rainforest": "2024-08-27 05:11:26 +0000",
       "lavender_field": "2024-08-27 06:18:32 +0000",
+      "fir_clearing": "2025-01-29 23:45:05 +0000",
       "grassland": "2024-08-27 02:58:36 +0000",
       "rainforest": "2024-08-27 05:10:47 +0000"
     },
@@ -1562,10 +1565,12 @@
       "minecraft:dark_forest": "2024-11-14 12:00:38 +0000",
       "minecraft:sparse_jungle": "2024-11-14 10:54:25 +0000",
       "minecraft:river": "2024-08-27 03:07:29 +0000",
+      "minecraft:stony_shore": "2025-01-29 23:45:27 +0000",
       "autumnity:maple_forest": "2025-01-29 21:18:54 +0000",
       "autumnity:pumpkin_fields": "2024-08-27 05:26:33 +0000",
       "minecraft:cold_ocean": "2025-01-29 21:19:34 +0000",
       "minecraft:forest": "2024-08-27 05:25:06 +0000",
+      "minecraft:ice_spikes": "2025-01-29 23:47:26 +0000",
       "minecraft:frozen_ocean": "2024-08-27 06:13:49 +0000",
       "minecraft:ocean": "2024-08-27 03:46:10 +0000",
       "minecraft:jungle": "2024-11-14 10:52:12 +0000",
@@ -1804,7 +1809,10 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
-      "rock": "2024-11-14 10:18:09 +0000"
+      "rock": "2024-11-14 10:18:09 +0000",
+      "vine": "2025-01-29 23:54:25 +0000",
+      "blazing_bone": "2025-01-29 23:54:25 +0000",
+      "chorus": "2025-01-29 23:54:25 +0000"
     },
     "done": false
   },
