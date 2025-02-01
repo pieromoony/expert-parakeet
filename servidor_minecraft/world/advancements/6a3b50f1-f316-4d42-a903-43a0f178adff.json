@@ -932,6 +932,13 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "librarian": "2025-02-01 00:45:28 +0000",
+      "weaponsmith": "2025-02-01 01:27:39 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
