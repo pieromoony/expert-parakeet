@@ -482,6 +482,12 @@
     },
     "done": true
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-02-02 21:22:23 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartycabinet": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:00:28 +0000"
@@ -1438,6 +1444,7 @@
       "minecraft:river": "2024-08-27 03:05:47 +0000",
       "minecraft:lukewarm_ocean": "2024-11-15 04:51:12 +0000",
       "autumnity:maple_forest": "2024-08-27 04:59:36 +0000",
+      "atmospheric:rocky_dunes": "2025-02-02 21:24:26 +0000",
       "autumnity:pumpkin_fields": "2024-08-27 05:01:24 +0000",
       "atmospheric:dunes": "2025-02-02 21:18:20 +0000",
       "minecraft:cold_ocean": "2024-08-27 04:57:30 +0000",
