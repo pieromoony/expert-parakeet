@@ -461,7 +461,12 @@
       "wythers:black_river": "2025-01-18 07:28:07 +0000",
       "wythers:gravelly_river": "2025-01-18 07:01:43 +0000",
       "wythers:gravelly_beach": "2025-01-18 07:01:48 +0000",
-      "wythers:humid_tropical_grassland": "2024-11-15 04:52:01 +0000"
+      "wythers:red_desert": "2025-02-02 21:18:21 +0000",
+      "wythers:badlands_canyon": "2025-02-02 20:57:32 +0000",
+      "wythers:humid_tropical_grassland": "2024-11-15 04:52:01 +0000",
+      "wythers:outback_desert": "2025-02-02 21:17:56 +0000",
+      "wythers:badlands_river": "2025-02-02 20:57:48 +0000",
+      "wythers:badlands_desert": "2025-02-02 20:56:00 +0000"
     },
     "done": false
   },
@@ -505,13 +510,17 @@
       "mystic_grove": "2024-08-27 04:08:28 +0000",
       "old_growth_woodland": "2024-08-27 05:45:58 +0000",
       "wooded_scrubland": "2025-02-02 19:53:37 +0000",
+      "wooded_wasteland": "2025-02-02 21:14:17 +0000",
       "orchard": "2024-09-03 06:59:37 +0000",
       "lavender_forest": "2024-08-27 06:10:16 +0000",
       "mediterranean_forest": "2024-08-27 05:48:36 +0000",
+      "dryland": "2025-02-02 20:57:29 +0000",
       "wasteland": "2024-08-27 05:51:30 +0000",
+      "lush_desert": "2025-02-02 21:04:20 +0000",
       "redwood_forest": "2024-08-27 03:22:40 +0000",
       "cherry_blossom_grove": "2024-08-27 03:13:56 +0000",
       "dune_beach": "2025-01-18 07:04:30 +0000",
+      "volcanic_plains": "2025-02-02 21:14:31 +0000",
       "lavender_field": "2024-08-27 06:10:09 +0000",
       "grassland": "2024-08-27 03:00:29 +0000",
       "rainforest": "2024-08-27 05:45:06 +0000"
@@ -923,6 +932,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-02 20:52:50 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:00:28 +0000"
@@ -1034,6 +1049,12 @@
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2024-08-27 03:00:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-02-02 21:04:06 +0000"
     },
     "done": true
   },
@@ -1410,12 +1431,15 @@
       "minecraft:frozen_river": "2024-11-14 11:57:06 +0000",
       "minecraft:birch_forest": "2024-08-27 03:10:32 +0000",
       "minecraft:windswept_hills": "2024-08-27 05:27:29 +0000",
+      "minecraft:badlands": "2025-02-02 20:55:59 +0000",
       "minecraft:beach": "2024-08-27 04:35:06 +0000",
       "minecraft:dark_forest": "2024-08-27 04:55:25 +0000",
+      "atmospheric:flourishing_dunes": "2025-02-02 21:17:30 +0000",
       "minecraft:river": "2024-08-27 03:05:47 +0000",
       "minecraft:lukewarm_ocean": "2024-11-15 04:51:12 +0000",
       "autumnity:maple_forest": "2024-08-27 04:59:36 +0000",
       "autumnity:pumpkin_fields": "2024-08-27 05:01:24 +0000",
+      "atmospheric:dunes": "2025-02-02 21:18:20 +0000",
       "minecraft:cold_ocean": "2024-08-27 04:57:30 +0000",
       "minecraft:forest": "2024-08-27 05:34:53 +0000",
       "minecraft:deep_cold_ocean": "2024-08-27 05:04:30 +0000",
@@ -1688,6 +1712,12 @@
       "has_the_recipe": "2024-08-27 03:00:28 +0000"
     },
     "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-02-02 21:17:36 +0000"
+    },
+    "done": false
   },
   "immersive_weathering:immersive_weathering/rust_off": {
     "criteria": {

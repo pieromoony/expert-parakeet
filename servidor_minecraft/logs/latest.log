@@ -4265,3 +4265,168 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [02Feb2025 20:50:11.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [02Feb2025 20:50:11.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [02Feb2025 20:50:11.498] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:51:22.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:51:22.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:51:47.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:51:50.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:52:00.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:52:00.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:52:06.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:52:18.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:52:18.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:52:18.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:52:50.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 has made the advancement [Best Friends Forever]
+[02Feb2025 20:52:58.848] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:53:16.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:53:46.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:54:01.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:54:01.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:04.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:07.947] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:26.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:26.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:26.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:47.249] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:53.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:53.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:53.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:53.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:55:57.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 0.28463041573741066
+[02Feb2025 20:55:57.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 0.8173971468504533
+[02Feb2025 20:55:57.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 1.3383603700408457
+[02Feb2025 20:55:57.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 1.8530077714781328
+[02Feb2025 20:56:02.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:56:24.307] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:56:26.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:57:02.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:57:02.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:57:09.998] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:57:09.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:57:23.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:57:23.621] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:57:37.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:57:38.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:58:02.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 0.35458055838716973
+[02Feb2025 20:58:02.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 0.8928599324608513
+[02Feb2025 20:58:02.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 1.4370453533306318
+[02Feb2025 20:58:02.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 1.9843909820870067
+[02Feb2025 20:58:03.498] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:58:03.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:58:04.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:58:08.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:58:08.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:58:08.998] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:58:10.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 0.2534191952090623
+[02Feb2025 20:58:10.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 0.6508984045167381
+[02Feb2025 20:58:10.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of IanArmstrong1) moved wrongly! 1.1238963934465573
+[02Feb2025 20:58:20.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 is bleeding. IanArmstrong1 was turned into KFC by Fire Dragon
+[02Feb2025 20:58:20.779] [Server thread/WARN] [tombstone/]: The death event of the player IanArmstrong1 was canceled by another mod
+[02Feb2025 20:58:20.842] [Server thread/INFO] [tombstone/]: The player IanArmstrong1 has successfully been saved
+[02Feb2025 20:58:30.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 was burnt to a crisp whilst fighting Fire Dragon
+[02Feb2025 20:58:30.637] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IanArmstrong1 with unique ID travelersbackpack.bat_02.02.2025-20.58.30.dat
+[02Feb2025 20:58:30.638] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2789 Y: 96 Z: -5040
+[02Feb2025 20:58:30.685] [Server thread/INFO] [tombstone/]: The player IanArmstrong1 has successfully been saved
+[02Feb2025 20:58:32.235] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Feb2025 20:58:33.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:58:33.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:59:08.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:59:26.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 20:59:34.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:04.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:19.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:19.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:19.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:19.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:19.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:23.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:42.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:42.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:01:58.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:02:26.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:02:26.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:02:39.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:02:40.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:03:00.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:03:06.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 is bleeding. IanArmstrong1 was incinerated by Fire Dragon
+[02Feb2025 21:03:06.417] [Server thread/WARN] [tombstone/]: The death event of the player IanArmstrong1 was canceled by another mod
+[02Feb2025 21:03:06.482] [Server thread/INFO] [tombstone/]: The player IanArmstrong1 has successfully been saved
+[02Feb2025 21:03:11.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 drowned whilst trying to escape Fire Dragon
+[02Feb2025 21:03:11.540] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IanArmstrong1 with unique ID travelersbackpack.bat_02.02.2025-21.03.11.dat
+[02Feb2025 21:03:11.540] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2869 Y: 56 Z: -5078
+[02Feb2025 21:03:11.588] [Server thread/INFO] [tombstone/]: The player IanArmstrong1 has successfully been saved
+[02Feb2025 21:03:13.115] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Feb2025 21:03:13.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:03:13.848] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:04:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 has made the advancement [Eye of The Storm]
+[02Feb2025 21:04:18.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:05:03.524] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[02Feb2025 21:05:06.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:05:08.381] [Server thread/INFO] [naturescompass/]: Search succeeded: 5788 radius, 10900 samples
+[02Feb2025 21:06:30.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:07:24.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:07:41.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:07:41.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:07:41.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:08:32.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 is bleeding. IanArmstrong1 was slain by Fire Dragon
+[02Feb2025 21:08:32.281] [Server thread/WARN] [tombstone/]: The death event of the player IanArmstrong1 was canceled by another mod
+[02Feb2025 21:08:32.343] [Server thread/INFO] [tombstone/]: The player IanArmstrong1 has successfully been saved
+[02Feb2025 21:08:42.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 was burnt to a crisp whilst fighting Fire Dragon
+[02Feb2025 21:08:42.336] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IanArmstrong1 with unique ID travelersbackpack.bat_02.02.2025-21.08.42.dat
+[02Feb2025 21:08:42.337] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2832 Y: 71 Z: -4939
+[02Feb2025 21:08:42.385] [Server thread/INFO] [tombstone/]: The player IanArmstrong1 has successfully been saved
+[02Feb2025 21:08:43.978] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Feb2025 21:09:16.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:09:20.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:09:46.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:10:10.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:10:10.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:10:31.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:10:31.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:11:03.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tashina'/62796, l='ServerLevel[Sonder]', x=2960.76, y=77.48, z=-4940.69] died, message: 'Tashina was slain by Fire Dragon'
+[02Feb2025 21:11:03.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tashina'/62796, l='ServerLevel[Sonder]', x=2960.76, y=77.48, z=-4940.69] died: Tashina was slain by Fire Dragon
+[02Feb2025 21:11:06.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Katheryn'/62798, l='ServerLevel[Sonder]', x=2961.43, y=77.48, z=-4940.51] died, message: 'Katheryn was slain by Fire Dragon'
+[02Feb2025 21:11:06.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Katheryn'/62798, l='ServerLevel[Sonder]', x=2961.43, y=77.48, z=-4940.51] died: Katheryn was slain by Fire Dragon
+[02Feb2025 21:12:42.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 is bleeding. IanArmstrong1 was turned into KFC by Fire Dragon
+[02Feb2025 21:12:42.117] [Server thread/WARN] [tombstone/]: The death event of the player IanArmstrong1 was canceled by another mod
+[02Feb2025 21:12:42.141] [Server thread/INFO] [tombstone/]: The player IanArmstrong1 has successfully been saved
+[02Feb2025 21:12:46.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:12:49.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:12:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 was turned into KFC by Fire Dragon
+[02Feb2025 21:12:49.378] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IanArmstrong1 with unique ID travelersbackpack.bat_02.02.2025-21.12.49.dat
+[02Feb2025 21:12:49.378] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2911 Y: 55 Z: -4869
+[02Feb2025 21:12:50.877] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Feb2025 21:12:54.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:12:57.299] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:12:57.299] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:12:57.299] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:13:08.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:13:08.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:13:08.700] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:13:22.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:13:24.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:13:34.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:13:35.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:14:13.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:14:35.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:14:54.434] [Worker-Main-9/WARN] [ModernFix/]: The namespace yungsextras contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Feb2025 21:15:38.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:16:45.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:17:49.797] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:18:05.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:18:18.961] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtbop:acacia_undergrowth_leaves} not valid leaves for Species{registryName=dtbop:sparse_acacia}.
+[02Feb2025 21:18:22.539] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CamperEntity['Camper'/70224, l='ServerLevel[Sonder]', x=3559.93, y=84.00, z=-4275.35] died: Camper suffocated in a wall
+[02Feb2025 21:18:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 is bleeding. IanArmstrong1 was incinerated by Fire Dragon
+[02Feb2025 21:18:26.474] [Server thread/WARN] [tombstone/]: The death event of the player IanArmstrong1 was canceled by another mod
+[02Feb2025 21:18:26.551] [Server thread/INFO] [tombstone/]: The player IanArmstrong1 has successfully been saved
+[02Feb2025 21:18:27.904] [Worker-Main-9/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Feb2025 21:18:33.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 was burnt to a crisp whilst fighting Fire Dragon
+[02Feb2025 21:18:33.542] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IanArmstrong1 with unique ID travelersbackpack.bat_02.02.2025-21.18.33.dat
+[02Feb2025 21:18:33.542] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3392 Y: 91 Z: -4431
+[02Feb2025 21:18:33.602] [Server thread/INFO] [tombstone/]: The player IanArmstrong1 has successfully been saved
+[02Feb2025 21:18:35.065] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Feb2025 21:18:37.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:19:00.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:19:24.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:19:44.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:20:12.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[02Feb2025 21:20:12.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
