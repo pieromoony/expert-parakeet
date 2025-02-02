@@ -276,7 +276,9 @@
       "abnormals_delight:onion": "2024-09-04 03:28:02 +0000",
       "neapolitan:strawberries": "2025-01-18 06:39:05 +0000",
       "cooked_beef": "2025-01-18 07:22:45 +0000",
+      "mushroom_stew": "2025-02-02 20:13:17 +0000",
       "apple": "2024-08-27 03:36:58 +0000",
+      "cookie": "2025-02-02 20:09:23 +0000",
       "abnormals_delight:cooked_bacon": "2024-08-27 04:05:20 +0000",
       "bread": "2024-08-27 03:45:43 +0000",
       "cod": "2024-08-27 04:48:59 +0000",
@@ -907,6 +909,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-02 20:13:17 +0000"
     },
     "done": true
   },
