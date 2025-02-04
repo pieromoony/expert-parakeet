@@ -1303,3 +1303,14 @@
 [04Feb2025 00:40:45.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DylanDirnt[/100.111.106.62:49366] logged in with entity id 5772 at (2040.901338294468, 80.0, -5272.110329173884)
 [04Feb2025 00:40:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt joined the game
 [04Feb2025 00:40:45.445] [Server thread/INFO] [Jade/]: Syncing config to DylanDirnt (09e0a1b0-3992-4986-9024-b06ef7fe770a)
+[04Feb2025 00:41:35.353] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:42:16.953] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:42:16.953] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:43:27.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:43:47.053] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:43:50.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:44:49.802] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:46:49.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:47:12.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:49:43.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 00:49:58.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
