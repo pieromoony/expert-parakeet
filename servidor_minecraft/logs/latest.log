@@ -1325,3 +1325,7 @@
 [04Feb2025 00:58:42.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [04Feb2025 00:58:50.805] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [04Feb2025 00:58:50.806] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 01:02:34.703] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 01:02:34.704] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[04Feb2025 01:04:49.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DylanDirnt lost connection: Disconnected
+[04Feb2025 01:04:49.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt left the game
