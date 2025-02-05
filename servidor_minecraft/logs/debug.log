@@ -25739,3 +25739,24 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [05Feb2025 01:29:56.999] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/2894, l='ServerLevel[Sonder]', x=1931.50, y=-11.00, z=-5325.50, removed=DISCARDED].
 [05Feb2025 01:29:56.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [05Feb2025 01:30:17.260] [Server thread/DEBUG] [Strawgolem/]: Crop grown in world: ServerLevel[Sonder], at pos: 1940, 63, -5335
+[05Feb2025 01:31:59.450] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3452, l='ServerLevel[Sonder]', x=1955.50, y=-12.00, z=-5226.50, removed=DISCARDED].
+[05Feb2025 01:31:59.450] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 01:32:06.742] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed MaggotEntity['Corpse Maggot'/3488, l='ServerLevel[Sonder]', x=1997.79, y=81.00, z=-5283.80, removed=DISCARDED].
+[05Feb2025 01:32:06.743] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed MaggotEntity['Corpse Maggot'/3489, l='ServerLevel[Sonder]', x=1997.49, y=81.00, z=-5284.00, removed=DISCARDED].
+[05Feb2025 01:32:36.799] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3582, l='ServerLevel[Sonder]', x=1963.50, y=-14.00, z=-5284.50, removed=DISCARDED].
+[05Feb2025 01:32:36.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 01:32:54.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[05Feb2025 01:32:54.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[05Feb2025 01:35:00.050] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4137, l='ServerLevel[Sonder]', x=1995.50, y=-16.00, z=-5321.50, removed=DISCARDED].
+[05Feb2025 01:35:00.050] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 01:35:11.048] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4152, l='ServerLevel[Sonder]', x=1986.50, y=-23.00, z=-5314.50, removed=DISCARDED].
+[05Feb2025 01:35:11.048] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 01:36:33.049] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4303, l='ServerLevel[Sonder]', x=1982.50, y=-11.00, z=-5347.50, removed=DISCARDED].
+[05Feb2025 01:36:33.049] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 01:36:49.100] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4360, l='ServerLevel[Sonder]', x=1981.50, y=-25.00, z=-5308.50, removed=DISCARDED].
+[05Feb2025 01:36:49.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 01:37:00.050] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4420, l='ServerLevel[Sonder]', x=1942.50, y=-25.00, z=-5325.50, removed=DISCARDED].
+[05Feb2025 01:37:00.050] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 01:37:54.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[05Feb2025 01:37:54.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[05Feb2025 01:38:09.624] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
