@@ -25880,3 +25880,185 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [05Feb2025 02:27:54.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
 [05Feb2025 02:29:24.098] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13116, l='ServerLevel[Sonder]', x=1955.50, y=-19.00, z=-5286.50, removed=DISCARDED].
 [05Feb2025 02:29:24.098] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:32:08.301] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13459, l='ServerLevel[Sonder]', x=1977.50, y=-14.00, z=-5310.50, removed=DISCARDED].
+[05Feb2025 02:32:08.301] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:32:33.649] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13513, l='ServerLevel[Sonder]', x=1955.50, y=-11.00, z=-5206.50, removed=DISCARDED].
+[05Feb2025 02:32:33.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:32:33.650] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13515, l='ServerLevel[Sonder]', x=1959.50, y=-11.00, z=-5202.50, removed=DISCARDED].
+[05Feb2025 02:32:33.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:32:54.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[05Feb2025 02:32:54.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[05Feb2025 02:33:22.349] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13605, l='ServerLevel[Sonder]', x=1984.50, y=-6.00, z=-5288.50, removed=DISCARDED].
+[05Feb2025 02:33:22.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:33:22.354] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13607, l='ServerLevel[Sonder]', x=1981.50, y=-6.00, z=-5286.50, removed=DISCARDED].
+[05Feb2025 02:33:22.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:33:36.149] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13652, l='ServerLevel[Sonder]', x=1965.50, y=-17.00, z=-5344.50, removed=DISCARDED].
+[05Feb2025 02:33:36.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:33:36.150] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13654, l='ServerLevel[Sonder]', x=1963.50, y=-17.00, z=-5346.50, removed=DISCARDED].
+[05Feb2025 02:33:36.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:33:38.098] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13676, l='ServerLevel[Sonder]', x=1986.50, y=-46.00, z=-5289.50, removed=DISCARDED].
+[05Feb2025 02:33:38.098] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:33:38.098] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13678, l='ServerLevel[Sonder]', x=1985.50, y=-46.00, z=-5289.50, removed=DISCARDED].
+[05Feb2025 02:33:38.098] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:33:51.648] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13812, l='ServerLevel[Sonder]', x=1994.50, y=-13.00, z=-5335.50, removed=DISCARDED].
+[05Feb2025 02:33:51.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:33:56.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_4
+[05Feb2025 02:34:06.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[05Feb2025 02:34:06.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[05Feb2025 02:34:06.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[05Feb2025 02:34:06.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[05Feb2025 02:34:06.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_06
+[05Feb2025 02:34:06.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[05Feb2025 02:34:06.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[05Feb2025 02:34:06.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_01
+[05Feb2025 02:34:06.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[05Feb2025 02:34:06.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[05Feb2025 02:34:06.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[05Feb2025 02:34:06.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[05Feb2025 02:34:06.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[05Feb2025 02:34:06.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[05Feb2025 02:34:06.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[05Feb2025 02:34:06.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[05Feb2025 02:34:06.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_farm_1
+[05Feb2025 02:34:06.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[05Feb2025 02:34:06.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_01
+[05Feb2025 02:34:06.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[05Feb2025 02:34:06.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[05Feb2025 02:34:19.700] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13924, l='ServerLevel[Sonder]', x=1916.50, y=-36.00, z=-5362.50, removed=DISCARDED].
+[05Feb2025 02:34:19.700] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:34:29.553] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/13987, l='ServerLevel[Sonder]', x=1780.50, y=-32.00, z=-5330.50, removed=DISCARDED].
+[05Feb2025 02:34:29.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:34:42.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/zombie_start
+[05Feb2025 02:34:42.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_1
+[05Feb2025 02:34:42.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_0
+[05Feb2025 02:34:42.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_2
+[05Feb2025 02:34:42.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_0
+[05Feb2025 02:34:42.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_0
+[05Feb2025 02:34:42.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_2
+[05Feb2025 02:34:42.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_double_0
+[05Feb2025 02:34:42.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_1
+[05Feb2025 02:34:42.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_stairs
+[05Feb2025 02:34:42.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_4
+[05Feb2025 02:34:42.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_single_0
+[05Feb2025 02:34:42.066] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_3
+[05Feb2025 02:34:42.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_0
+[05Feb2025 02:34:42.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_empty
+[05Feb2025 02:34:42.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_0
+[05Feb2025 02:34:42.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_6
+[05Feb2025 02:34:42.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_specialroom_0
+[05Feb2025 02:34:42.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_4
+[05Feb2025 02:34:42.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_2
+[05Feb2025 02:34:42.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_2
+[05Feb2025 02:34:42.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_1
+[05Feb2025 02:34:42.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_2
+[05Feb2025 02:34:42.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_0
+[05Feb2025 02:34:42.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_1
+[05Feb2025 02:34:42.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_7
+[05Feb2025 02:34:42.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_5
+[05Feb2025 02:34:42.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_3
+[05Feb2025 02:34:42.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_1
+[05Feb2025 02:34:42.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_0
+[05Feb2025 02:34:42.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_2
+[05Feb2025 02:34:42.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_sm_single_0
+[05Feb2025 02:34:42.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_4
+[05Feb2025 02:34:42.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_1
+[05Feb2025 02:34:42.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_1
+[05Feb2025 02:34:42.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_8
+[05Feb2025 02:34:42.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_9
+[05Feb2025 02:34:42.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_3
+[05Feb2025 02:34:42.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_2
+[05Feb2025 02:34:42.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_3
+[05Feb2025 02:34:42.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_0
+[05Feb2025 02:34:42.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_1
+[05Feb2025 02:34:42.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_closed
+[05Feb2025 02:34:42.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_1
+[05Feb2025 02:34:42.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_0
+[05Feb2025 02:34:42.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_closed
+[05Feb2025 02:34:42.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_0
+[05Feb2025 02:34:42.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_closed
+[05Feb2025 02:34:42.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_1
+[05Feb2025 02:34:42.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_closed
+[05Feb2025 02:34:47.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[05Feb2025 02:34:48.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[05Feb2025 02:34:48.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/full
+[05Feb2025 02:34:49.348] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14125, l='ServerLevel[Sonder]', x=1796.50, y=-25.00, z=-5351.50, removed=DISCARDED].
+[05Feb2025 02:34:49.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:34:49.351] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14127, l='ServerLevel[Sonder]', x=1795.50, y=-25.00, z=-5353.50, removed=DISCARDED].
+[05Feb2025 02:34:49.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:34:49.351] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14129, l='ServerLevel[Sonder]', x=1794.50, y=-25.00, z=-5345.50, removed=DISCARDED].
+[05Feb2025 02:34:49.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:34:49.352] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14131, l='ServerLevel[Sonder]', x=1793.50, y=-25.00, z=-5345.50, removed=DISCARDED].
+[05Feb2025 02:34:49.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:34:55.548] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14174, l='ServerLevel[Sonder]', x=1756.50, y=-42.00, z=-5328.50, removed=DISCARDED].
+[05Feb2025 02:34:55.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:34:59.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:meteor2
+[05Feb2025 02:35:00.349] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14241, l='ServerLevel[Sonder]', x=1754.50, y=-38.00, z=-5340.50, removed=DISCARDED].
+[05Feb2025 02:35:00.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:03.599] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14277, l='ServerLevel[Sonder]', x=1799.50, y=-24.00, z=-5221.50, removed=DISCARDED].
+[05Feb2025 02:35:03.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:03.599] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14279, l='ServerLevel[Sonder]', x=1796.50, y=-24.00, z=-5219.50, removed=DISCARDED].
+[05Feb2025 02:35:03.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:04.147] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14284, l='ServerLevel[Sonder]', x=1655.50, y=-12.00, z=-5251.50, removed=DISCARDED].
+[05Feb2025 02:35:04.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:10.449] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14332, l='ServerLevel[Sonder]', x=1798.50, y=-23.00, z=-5207.50, removed=DISCARDED].
+[05Feb2025 02:35:10.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:15.948] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14378, l='ServerLevel[Sonder]', x=1797.50, y=-13.00, z=-5270.50, removed=DISCARDED].
+[05Feb2025 02:35:15.948] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:17.748] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14382, l='ServerLevel[Sonder]', x=1682.50, y=-21.00, z=-5237.50, removed=DISCARDED].
+[05Feb2025 02:35:17.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:24.648] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14425, l='ServerLevel[Sonder]', x=1728.50, y=-9.00, z=-5322.50, removed=DISCARDED].
+[05Feb2025 02:35:24.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:24.649] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14427, l='ServerLevel[Sonder]', x=1726.50, y=-9.00, z=-5318.50, removed=DISCARDED].
+[05Feb2025 02:35:24.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:24.649] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14429, l='ServerLevel[Sonder]', x=1733.50, y=-9.00, z=-5324.50, removed=DISCARDED].
+[05Feb2025 02:35:24.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:24.650] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14435, l='ServerLevel[Sonder]', x=1731.50, y=-9.00, z=-5325.50, removed=DISCARDED].
+[05Feb2025 02:35:24.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:37.047] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14510, l='ServerLevel[Sonder]', x=1705.50, y=-28.00, z=-5287.50, removed=DISCARDED].
+[05Feb2025 02:35:37.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:46.250] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14561, l='ServerLevel[Sonder]', x=1781.50, y=-24.00, z=-5336.50, removed=DISCARDED].
+[05Feb2025 02:35:46.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:50.847] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14572, l='ServerLevel[Sonder]', x=1790.50, y=-13.00, z=-5391.50, removed=DISCARDED].
+[05Feb2025 02:35:50.847] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:53.848] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14583, l='ServerLevel[Sonder]', x=1719.50, y=-12.00, z=-5382.50, removed=DISCARDED].
+[05Feb2025 02:35:53.848] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:35:55.750] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14586, l='ServerLevel[Sonder]', x=1747.50, y=-15.00, z=-5366.50, removed=DISCARDED].
+[05Feb2025 02:35:55.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:36:03.798] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14626, l='ServerLevel[Sonder]', x=1677.50, y=-26.00, z=-5290.50, removed=DISCARDED].
+[05Feb2025 02:36:03.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:36:03.798] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14628, l='ServerLevel[Sonder]', x=1677.50, y=-26.00, z=-5290.50, removed=DISCARDED].
+[05Feb2025 02:36:03.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:36:13.297] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14669, l='ServerLevel[Sonder]', x=1683.50, y=-25.00, z=-5297.50, removed=DISCARDED].
+[05Feb2025 02:36:13.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:36:13.297] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14671, l='ServerLevel[Sonder]', x=1672.50, y=-25.00, z=-5296.50, removed=DISCARDED].
+[05Feb2025 02:36:13.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:36:19.047] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14732, l='ServerLevel[Sonder]', x=1739.50, y=-46.00, z=-5324.50, removed=DISCARDED].
+[05Feb2025 02:36:19.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:36:19.348] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/14737, l='ServerLevel[Sonder]', x=1753.50, y=-11.00, z=-5306.50, removed=DISCARDED].
+[05Feb2025 02:36:19.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:36:43.900] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/15061, l='ServerLevel[Sonder]', x=1954.50, y=-11.00, z=-5224.50, removed=DISCARDED].
+[05Feb2025 02:36:43.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:37:00.464] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/15234, l='ServerLevel[Sonder]', x=1953.50, y=-17.00, z=-5261.50, removed=DISCARDED].
+[05Feb2025 02:37:00.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:37:02.949] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/15266, l='ServerLevel[Sonder]', x=1966.50, y=-20.00, z=-5342.50, removed=DISCARDED].
+[05Feb2025 02:37:02.949] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:37:08.349] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/15339, l='ServerLevel[Sonder]', x=1972.50, y=-15.00, z=-5312.50, removed=DISCARDED].
+[05Feb2025 02:37:08.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:37:08.799] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/15348, l='ServerLevel[Sonder]', x=2131.50, y=-5.00, z=-5323.50, removed=DISCARDED].
+[05Feb2025 02:37:08.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:37:25.999] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/15474, l='ServerLevel[Sonder]', x=2132.50, y=-6.00, z=-5315.50, removed=DISCARDED].
+[05Feb2025 02:37:25.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:37:25.999] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/15476, l='ServerLevel[Sonder]', x=2135.50, y=-6.00, z=-5313.50, removed=DISCARDED].
+[05Feb2025 02:37:25.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:37:54.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[05Feb2025 02:37:54.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[05Feb2025 02:39:39.249] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/16020, l='ServerLevel[Sonder]', x=1929.50, y=-5.00, z=-5304.50, removed=DISCARDED].
+[05Feb2025 02:39:39.249] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:39:56.198] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/16072, l='ServerLevel[Sonder]', x=2000.50, y=-18.00, z=-5292.50, removed=DISCARDED].
+[05Feb2025 02:39:56.198] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:40:32.947] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/16243, l='ServerLevel[Sonder]', x=1956.50, y=-12.00, z=-5200.50, removed=DISCARDED].
+[05Feb2025 02:40:32.947] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:40:34.599] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/16248, l='ServerLevel[Sonder]', x=1949.50, y=-19.00, z=-5286.50, removed=DISCARDED].
+[05Feb2025 02:40:34.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[05Feb2025 02:41:09.848] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/16311, l='ServerLevel[Sonder]', x=1968.50, y=-22.00, z=-5347.50, removed=DISCARDED].
+[05Feb2025 02:41:09.848] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
