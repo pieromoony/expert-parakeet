@@ -3000,3 +3000,98 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [21Feb2025 03:46:42.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt joined the game
 [21Feb2025 03:46:42.680] [Server thread/INFO] [Jade/]: Syncing config to DylanDirnt (09e0a1b0-3992-4986-9024-b06ef7fe770a)
 [21Feb2025 03:48:31.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:53:11.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:55:15.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:55:54.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:55:54.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:56:48.163] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:57:44.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:58:29.314] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:59:16.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:59:17.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:59:17.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:59:17.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 03:59:19.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:00:02.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:00:02.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:00:19.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:00:25.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:00:28.314] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:00:28.315] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:00:58.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:02:35.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:02:50.765] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:02:50.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:02:54.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:02:54.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:02:54.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:06:31.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DylanDirnt moved too quickly! 10.055646694858751,1.3709699481940731,-1.1717877004584807
+[21Feb2025 04:06:32.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[21Feb2025 04:06:39.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:07:22.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt has reached the goal [Skyslime Island]
+[21Feb2025 04:07:57.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:07:57.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:08:41.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt is bleeding. DylanDirnt was slain by Vex
+[21Feb2025 04:08:41.550] [Server thread/WARN] [tombstone/]: The death event of the player DylanDirnt was canceled by another mod
+[21Feb2025 04:08:41.610] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[21Feb2025 04:08:55.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt has completed the challenge [Almost Unkillable]
+[21Feb2025 04:08:55.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt was slain by Vex
+[21Feb2025 04:08:55.008] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DylanDirnt with unique ID travelersbackpack.bat_21.02.2025-04.08.55.dat
+[21Feb2025 04:08:55.010] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2005 Y: 108 Z: -6250
+[21Feb2025 04:08:58.977] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Feb2025 04:09:03.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:09:59.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:10:03.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:10:05.315] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:10:22.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:10:22.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:11:03.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:11:19.265] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:11:19.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:11:19.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:11:38.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:11:40.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:11:42.765] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:11:42.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:12:42.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:12:47.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:12:50.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:13:00.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt is bleeding. DylanDirnt was slain by Ravager
+[21Feb2025 04:13:00.389] [Server thread/WARN] [tombstone/]: The death event of the player DylanDirnt was canceled by another mod
+[21Feb2025 04:13:00.439] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[21Feb2025 04:13:18.715] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:13:19.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:13:24.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:13:26.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt was slain by Ravager
+[21Feb2025 04:13:26.098] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DylanDirnt with unique ID travelersbackpack.bat_21.02.2025-04.13.26.dat
+[21Feb2025 04:13:26.099] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1866 Y: 60 Z: -6359
+[21Feb2025 04:13:28.071] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Feb2025 04:13:32.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:13:56.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt is bleeding. DylanDirnt was slain by Ravager
+[21Feb2025 04:13:56.128] [Server thread/WARN] [tombstone/]: The death event of the player DylanDirnt was canceled by another mod
+[21Feb2025 04:13:56.155] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[21Feb2025 04:14:11.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:14:17.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:14:33.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:14:33.165] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:14:33.165] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:14:33.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:14:33.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:14:34.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt drowned
+[21Feb2025 04:14:34.635] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[21Feb2025 04:14:55.985] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Feb2025 04:15:36.514] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:16:02.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt is bleeding. DylanDirnt was slain by Ravager
+[21Feb2025 04:16:02.426] [Server thread/WARN] [tombstone/]: The death event of the player DylanDirnt was canceled by another mod
+[21Feb2025 04:16:02.453] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[21Feb2025 04:16:13.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt drowned whilst trying to escape Ravager
+[21Feb2025 04:16:13.743] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[21Feb2025 04:16:16.703] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Feb2025 04:17:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt is bleeding. DylanDirnt was slain by Ravager
+[21Feb2025 04:17:14.875] [Server thread/WARN] [tombstone/]: The death event of the player DylanDirnt was canceled by another mod
+[21Feb2025 04:17:14.902] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[21Feb2025 04:17:19.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt drowned whilst trying to escape Ravager
+[21Feb2025 04:17:19.792] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[21Feb2025 04:19:11.128] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Feb2025 04:19:14.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:19:14.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already

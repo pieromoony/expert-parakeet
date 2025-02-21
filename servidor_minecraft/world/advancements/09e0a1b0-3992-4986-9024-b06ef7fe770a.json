@@ -149,6 +149,12 @@
     },
     "done": false
   },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2025-02-21 04:02:31 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
@@ -820,6 +826,12 @@
   "mcwfencesbop:recipes/fir": {
     "criteria": {
       "has_acacia": "2025-01-23 04:31:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-02-21 04:07:22 +0000"
     },
     "done": true
   },
@@ -1529,6 +1541,12 @@
       "minecraft:plains": "2024-09-03 05:33:27 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-02-21 04:08:54 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
