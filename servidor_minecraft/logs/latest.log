@@ -3966,3 +3966,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [21Feb2025 04:50:44.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DylanDirnt[/100.111.106.62:64873] logged in with entity id 19766 at (2005.7285644974484, 82.0, -5297.615997613336)
 [21Feb2025 04:50:44.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt joined the game
 [21Feb2025 04:50:44.219] [Server thread/INFO] [Jade/]: Syncing config to DylanDirnt (09e0a1b0-3992-4986-9024-b06ef7fe770a)
+[21Feb2025 04:51:23.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:51:38.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:52:07.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:52:07.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:52:14.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DylanDirnt lost connection: Timed out
+[21Feb2025 04:52:14.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt left the game
