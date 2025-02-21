@@ -3095,3 +3095,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [21Feb2025 04:19:11.128] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [21Feb2025 04:19:14.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [21Feb2025 04:19:14.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:21:18.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:24:53.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[21Feb2025 04:25:34.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DylanDirnt lost connection: Timed out
+[21Feb2025 04:25:34.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt left the game
+[21Feb2025 04:25:34.329] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
