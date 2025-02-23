@@ -151,6 +151,7 @@
   },
   "repurposed_structures:witch_huts": {
     "criteria": {
+      "in_witch_hut_birch": "2025-02-23 03:48:26 +0000",
       "in_witch_hut_oak": "2025-02-21 04:02:31 +0000"
     },
     "done": false
@@ -441,6 +442,12 @@
     },
     "done": true
   },
+  "workshopsofdoom:find_quarry_or_mines": {
+    "criteria": {
+      "workshopsofdoom:mountain_mines": "2025-02-23 03:49:02 +0000"
+    },
+    "done": true
+  },
   "beachparty:tiki_chair": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
@@ -507,6 +514,7 @@
       "wythers:humid_tropical_grassland": "2024-09-04 05:17:29 +0000",
       "wythers:tropical_forest": "2024-09-04 05:19:09 +0000",
       "wythers:underground": "2025-01-18 04:22:47 +0000",
+      "wythers:autumnal_birch_forest": "2025-02-23 03:48:26 +0000",
       "wythers:badlands_river": "2024-09-04 06:30:00 +0000",
       "wythers:granite_canyon": "2025-02-01 00:49:42 +0000",
       "wythers:calcite_coast": "2025-01-18 03:44:06 +0000",
