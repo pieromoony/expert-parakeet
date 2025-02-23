@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "healer_pouch": "2025-02-23 22:03:23 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/puny_smelting": {
     "criteria": {
       "crafted_book": "2024-09-04 03:33:15 +0000"
@@ -805,6 +811,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-18 04:40:31 +0000",
+      "caverns_and_chasms:deeper": "2025-02-23 21:46:47 +0000",
       "savage_and_ravage:creepie": "2025-01-26 04:30:17 +0000",
       "savage_and_ravage:executioner": "2025-01-26 04:25:10 +0000",
       "minecraft:husk": "2024-09-04 06:44:09 +0000",
