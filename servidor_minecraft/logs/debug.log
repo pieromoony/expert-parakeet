@@ -26312,3 +26312,32 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [23Feb2025 05:30:41.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [23Feb2025 05:31:24.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
 [23Feb2025 05:31:24.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[23Feb2025 05:36:03.174] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/46558, l='ServerLevel[Sonder]', x=2112.50, y=-12.00, z=-5030.50, removed=DISCARDED].
+[23Feb2025 05:36:03.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:36:06.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_4
+[23Feb2025 05:36:07.524] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/46624, l='ServerLevel[Sonder]', x=2144.50, y=-42.00, z=-5093.50, removed=DISCARDED].
+[23Feb2025 05:36:07.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:36:07.725] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/46627, l='ServerLevel[Sonder]', x=2070.50, y=-31.00, z=-5099.50, removed=DISCARDED].
+[23Feb2025 05:36:07.726] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:36:13.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_right_corner_1
+[23Feb2025 05:36:24.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[23Feb2025 05:36:24.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[23Feb2025 05:37:04.924] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/47016, l='ServerLevel[Sonder]', x=2104.50, y=-6.00, z=-5040.50, removed=DISCARDED].
+[23Feb2025 05:37:04.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:37:15.876] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/47222, l='ServerLevel[Sonder]', x=2110.50, y=-11.00, z=-5031.50, removed=DISCARDED].
+[23Feb2025 05:37:15.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:37:19.524] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/47276, l='ServerLevel[Sonder]', x=2067.50, y=-17.00, z=-5109.50, removed=DISCARDED].
+[23Feb2025 05:37:19.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:37:19.525] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/47278, l='ServerLevel[Sonder]', x=2067.50, y=-17.00, z=-5109.50, removed=DISCARDED].
+[23Feb2025 05:37:19.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:37:29.523] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/47430, l='ServerLevel[Sonder]', x=2061.50, y=-34.00, z=-5147.50, removed=DISCARDED].
+[23Feb2025 05:37:29.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:37:29.524] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/47434, l='ServerLevel[Sonder]', x=2059.50, y=-34.00, z=-5146.50, removed=DISCARDED].
+[23Feb2025 05:37:29.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:37:31.973] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/47501, l='ServerLevel[Sonder]', x=2061.50, y=-10.00, z=-5057.50, removed=DISCARDED].
+[23Feb2025 05:37:31.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:37:48.823] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/47661, l='ServerLevel[Sonder]', x=1961.50, y=-9.00, z=-5172.50, removed=DISCARDED].
+[23Feb2025 05:37:48.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Feb2025 05:40:41.924] [Server thread/DEBUG] [Strawgolem/]: Crop grown in world: ServerLevel[Sonder], at pos: 2052, 86, -5270
+[23Feb2025 05:41:24.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[23Feb2025 05:41:24.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
