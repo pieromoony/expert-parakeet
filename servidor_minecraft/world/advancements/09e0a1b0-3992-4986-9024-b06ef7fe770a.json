@@ -207,7 +207,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-09-03 05:13:41 +0000"
+      "in_better_spider_dungeon": "2024-09-03 05:13:41 +0000",
+      "in_better_monster_room": "2025-02-23 21:44:04 +0000"
     },
     "done": false
   },
@@ -813,7 +814,9 @@
       "minecraft:magma_cube": "2024-09-04 05:07:03 +0000",
       "minecraft:spider": "2024-08-27 03:48:07 +0000",
       "minecraft:creeper": "2025-01-18 08:50:18 +0000",
+      "quark:forgotten": "2025-02-23 21:36:30 +0000",
       "minecraft:silverfish": "2025-01-26 05:15:34 +0000",
+      "caverns_and_chasms:mime": "2025-02-23 21:42:53 +0000",
       "minecraft:zombie": "2024-09-04 05:32:54 +0000",
       "minecraft:zombie_villager": "2024-08-27 03:46:38 +0000"
     },
@@ -1351,6 +1354,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-23 21:44:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-01-29 21:45:09 +0000"
@@ -1504,6 +1513,12 @@
   "beachparty:beachpartypalm_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-02-23 21:36:43 +0000"
     },
     "done": true
   },
