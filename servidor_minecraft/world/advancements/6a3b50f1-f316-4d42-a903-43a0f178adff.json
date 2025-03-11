@@ -1217,6 +1217,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-02-26 18:40:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2024-08-27 03:18:51 +0000"
@@ -1763,6 +1769,12 @@
   "mcwfencesbop:recipes/magic_hedge": {
     "criteria": {
       "has_birch": "2025-01-20 09:27:57 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-02-26 18:54:22 +0000"
     },
     "done": true
   },
