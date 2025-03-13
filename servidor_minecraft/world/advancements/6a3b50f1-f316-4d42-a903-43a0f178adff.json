@@ -311,6 +311,7 @@
       "cookie": "2024-08-27 05:13:55 +0000",
       "abnormals_delight:cooked_bacon": "2024-11-21 10:03:53 +0000",
       "bread": "2024-08-27 03:14:20 +0000",
+      "golden_apple": "2025-03-13 09:09:35 +0000",
       "rotten_flesh": "2024-08-27 03:35:53 +0000",
       "abnormals_delight:beef_patty": "2024-11-21 08:39:54 +0000",
       "glow_berries": "2024-08-27 03:22:08 +0000",
@@ -443,6 +444,12 @@
   "beachparty:tiki_chair": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-13 09:16:17 +0000"
     },
     "done": true
   },
@@ -806,6 +813,7 @@
       "minecraft:piglin_brute": "2024-08-27 05:33:29 +0000",
       "minecraft:spider": "2024-08-27 03:21:01 +0000",
       "minecraft:creeper": "2024-08-27 03:14:42 +0000",
+      "quark:forgotten": "2025-03-13 09:01:59 +0000",
       "minecraft:stray": "2024-09-06 05:33:08 +0000",
       "minecraft:silverfish": "2024-12-14 02:55:08 +0000",
       "caverns_and_chasms:mime": "2024-11-14 08:52:56 +0000",
@@ -1106,6 +1114,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-01-26 02:10:18 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-03-13 08:56:00 +0000"
     },
     "done": true
   },
@@ -1550,6 +1564,12 @@
   "beachparty:beachpartypalm_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-03-13 09:02:15 +0000"
     },
     "done": true
   },
