@@ -458,6 +458,7 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:tropical_forest_river": "2025-03-11 23:27:45 +0000",
       "wythers:black_river": "2025-01-18 07:28:07 +0000",
       "wythers:dry_tropical_grassland": "2025-03-11 23:07:17 +0000",
       "wythers:gravelly_river": "2025-01-18 07:01:43 +0000",
@@ -465,10 +466,15 @@
       "wythers:scrub_forest": "2025-03-11 23:07:54 +0000",
       "wythers:red_desert": "2025-02-02 21:18:21 +0000",
       "wythers:flooded_savanna": "2025-02-02 21:38:26 +0000",
+      "wythers:savanna_river": "2025-03-11 23:27:46 +0000",
       "wythers:badlands_canyon": "2025-02-02 20:57:32 +0000",
       "wythers:humid_tropical_grassland": "2024-11-15 04:52:01 +0000",
+      "wythers:tropical_forest": "2025-03-11 23:25:51 +0000",
+      "wythers:savanna_badlands": "2025-03-11 23:34:08 +0000",
       "wythers:outback_desert": "2025-02-02 21:17:56 +0000",
+      "wythers:wooded_savanna": "2025-03-11 23:28:11 +0000",
       "wythers:badlands_river": "2025-02-02 20:57:48 +0000",
+      "wythers:billabong": "2025-03-11 23:14:46 +0000",
       "wythers:coastal_mangroves": "2025-02-02 21:40:25 +0000",
       "wythers:badlands_desert": "2025-02-02 20:56:00 +0000"
     },
@@ -531,6 +537,7 @@
       "redwood_forest": "2024-08-27 03:22:40 +0000",
       "cherry_blossom_grove": "2024-08-27 03:13:56 +0000",
       "dune_beach": "2025-01-18 07:04:30 +0000",
+      "rocky_rainforest": "2025-03-11 23:23:10 +0000",
       "volcanic_plains": "2025-02-02 21:14:31 +0000",
       "lavender_field": "2024-08-27 06:10:09 +0000",
       "grassland": "2024-08-27 03:00:29 +0000",
@@ -1438,7 +1445,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-14 11:56:57 +0000",
+      "atmospheric:rainforest": "2025-03-11 23:22:57 +0000",
       "minecraft:eroded_badlands": "2024-08-27 05:50:29 +0000",
+      "atmospheric:spiny_thicket": "2025-03-11 23:15:27 +0000",
       "minecraft:frozen_river": "2024-11-14 11:57:06 +0000",
       "minecraft:birch_forest": "2024-08-27 03:10:32 +0000",
       "minecraft:windswept_hills": "2024-08-27 05:27:29 +0000",
@@ -1447,8 +1456,10 @@
       "minecraft:dark_forest": "2024-08-27 04:55:25 +0000",
       "atmospheric:flourishing_dunes": "2025-02-02 21:17:30 +0000",
       "minecraft:mangrove_swamp": "2025-02-02 21:37:48 +0000",
+      "minecraft:sparse_jungle": "2025-03-11 23:25:07 +0000",
       "minecraft:river": "2024-08-27 03:05:47 +0000",
       "minecraft:lukewarm_ocean": "2024-11-15 04:51:12 +0000",
+      "minecraft:stony_shore": "2025-03-11 23:21:11 +0000",
       "autumnity:maple_forest": "2024-08-27 04:59:36 +0000",
       "atmospheric:rocky_dunes": "2025-02-02 21:24:26 +0000",
       "autumnity:pumpkin_fields": "2024-08-27 05:01:24 +0000",
@@ -1456,8 +1467,10 @@
       "minecraft:cold_ocean": "2024-08-27 04:57:30 +0000",
       "minecraft:forest": "2024-08-27 05:34:53 +0000",
       "minecraft:deep_cold_ocean": "2024-08-27 05:04:30 +0000",
+      "minecraft:desert": "2025-03-11 23:21:57 +0000",
       "minecraft:ocean": "2024-08-27 03:50:44 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-08-27 04:57:23 +0000",
+      "minecraft:warm_ocean": "2025-03-11 23:21:24 +0000",
       "minecraft:old_growth_birch_forest": "2024-08-27 03:56:31 +0000",
       "minecraft:meadow": "2024-08-27 05:02:16 +0000",
       "minecraft:savanna": "2024-11-15 04:41:23 +0000",
@@ -1728,9 +1741,11 @@
   },
   "atmospheric:adventure/dunes_pricks": {
     "criteria": {
-      "yucca_flower": "2025-02-02 21:17:36 +0000"
+      "aloe_vera": "2025-03-11 23:15:04 +0000",
+      "yucca_flower": "2025-02-02 21:17:36 +0000",
+      "barrel_cactus": "2025-03-11 23:15:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "immersive_weathering:immersive_weathering/rust_off": {
     "criteria": {
