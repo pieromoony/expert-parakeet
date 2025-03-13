@@ -246,6 +246,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-03-13 09:44:14 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/willow_fences": {
     "criteria": {
       "has_acacia": "2025-03-13 08:25:31 +0000"
