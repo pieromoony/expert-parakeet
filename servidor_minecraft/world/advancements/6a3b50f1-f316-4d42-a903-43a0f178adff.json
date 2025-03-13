@@ -1447,6 +1447,12 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/crack_on": {
+    "criteria": {
+      "wax_off": "2025-03-13 09:34:48 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/fir_hedge": {
     "criteria": {
       "has_birch": "2025-03-13 08:25:31 +0000"
