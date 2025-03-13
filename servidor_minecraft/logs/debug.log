@@ -25881,3 +25881,183 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [13Mar2025 07:42:11.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [13Mar2025 07:42:51.417] [Server thread/DEBUG] [Strawgolem/]: Crop grown in world: ServerLevel[Sonder], at pos: 1980, 64, -5434
 [13Mar2025 07:42:56.519] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$43924d3b5b6f4a7da6c266f1f1ed8651 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[13Mar2025 07:43:12.767] [Server thread/DEBUG] [Strawgolem/]: Crop grown in world: ServerLevel[Sonder], at pos: 1979, 64, -5465
+[13Mar2025 07:43:36.715] [Server thread/DEBUG] [Strawgolem/]: Crop grown in world: ServerLevel[Sonder], at pos: 1980, 64, -5440
+[13Mar2025 07:43:56.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[13Mar2025 07:43:56.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[13Mar2025 07:44:47.769] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3208, l='ServerLevel[Sonder]', x=2047.50, y=-23.00, z=-5451.50, removed=DISCARDED].
+[13Mar2025 07:44:47.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:44:47.770] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3210, l='ServerLevel[Sonder]', x=2051.50, y=-23.00, z=-5444.50, removed=DISCARDED].
+[13Mar2025 07:44:47.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:45:30.819] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3285, l='ServerLevel[Sonder]', x=1913.50, y=-20.00, z=-5437.50, removed=DISCARDED].
+[13Mar2025 07:45:30.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:45:30.819] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3287, l='ServerLevel[Sonder]', x=1911.50, y=-20.00, z=-5434.50, removed=DISCARDED].
+[13Mar2025 07:45:30.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:45:39.270] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3434, l='ServerLevel[Sonder]', x=2213.50, y=-14.00, z=-5397.50, removed=DISCARDED].
+[13Mar2025 07:45:39.270] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:45:39.270] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3436, l='ServerLevel[Sonder]', x=2215.50, y=-14.00, z=-5398.50, removed=DISCARDED].
+[13Mar2025 07:45:39.270] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:45:39.769] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3488, l='ServerLevel[Sonder]', x=2179.50, y=-18.00, z=-5441.50, removed=DISCARDED].
+[13Mar2025 07:45:39.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:45:53.808] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3574, l='ServerLevel[Sonder]', x=1955.50, y=-17.00, z=-5364.50, removed=DISCARDED].
+[13Mar2025 07:45:53.808] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:47:26.717] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3905, l='ServerLevel[Sonder]', x=1980.50, y=-15.00, z=-5446.50, removed=DISCARDED].
+[13Mar2025 07:47:26.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:47:58.015] [Server thread/DEBUG] [Strawgolem/]: Crop grown in world: ServerLevel[Sonder], at pos: 1979, 64, -5464
+[13Mar2025 07:48:19.716] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3989, l='ServerLevel[Sonder]', x=1976.50, y=-22.00, z=-5351.50, removed=DISCARDED].
+[13Mar2025 07:48:19.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:48:19.717] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/3991, l='ServerLevel[Sonder]', x=1976.50, y=-22.00, z=-5349.50, removed=DISCARDED].
+[13Mar2025 07:48:19.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:48:56.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[13Mar2025 07:48:56.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[13Mar2025 07:49:48.717] [Server thread/DEBUG] [Strawgolem/]: Crop grown in world: ServerLevel[Sonder], at pos: 1984, 64, -5460
+[13Mar2025 07:50:03.416] [Server thread/DEBUG] [Strawgolem/]: Crop grown in world: ServerLevel[Sonder], at pos: 1981, 64, -5439
+[13Mar2025 07:50:40.667] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4208, l='ServerLevel[Sonder]', x=2013.50, y=-36.00, z=-5439.50, removed=DISCARDED].
+[13Mar2025 07:50:40.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:50:40.668] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4210, l='ServerLevel[Sonder]', x=2012.50, y=-36.00, z=-5439.50, removed=DISCARDED].
+[13Mar2025 07:50:40.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:51:10.567] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4328, l='ServerLevel[Sonder]', x=1996.50, y=-37.00, z=-4902.50, removed=DISCARDED].
+[13Mar2025 07:51:10.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:51:10.672] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4344, l='ServerLevel[Sonder]', x=1983.50, y=-39.00, z=-4932.50, removed=DISCARDED].
+[13Mar2025 07:51:10.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:51:11.585] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4490, l='ServerLevel[Sonder]', x=2110.50, y=-17.00, z=-5027.50, removed=DISCARDED].
+[13Mar2025 07:51:11.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:51:11.586] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4492, l='ServerLevel[Sonder]', x=2106.50, y=-17.00, z=-5029.50, removed=DISCARDED].
+[13Mar2025 07:51:11.586] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:51:12.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:starts/junction_lg
+[13Mar2025 07:51:12.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_4
+[13Mar2025 07:51:12.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_2
+[13Mar2025 07:51:12.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_turn
+[13Mar2025 07:51:12.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_3
+[13Mar2025 07:51:12.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_small
+[13Mar2025 07:51:12.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/prison_lg
+[13Mar2025 07:51:12.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_wood
+[13Mar2025 07:51:12.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:walls/hall_wall
+[13Mar2025 07:51:12.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/library_md
+[13Mar2025 07:51:12.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_iron
+[13Mar2025 07:51:12.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_2torch
+[13Mar2025 07:51:12.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/mess
+[13Mar2025 07:51:12.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hall_wall_terminator
+[13Mar2025 07:51:12.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_l
+[13Mar2025 07:51:12.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway
+[13Mar2025 07:51:12.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_r
+[13Mar2025 07:51:12.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_banner
+[13Mar2025 07:51:12.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/bunks_md
+[13Mar2025 07:51:12.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/armoury_sm
+[13Mar2025 07:51:12.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_sword
+[13Mar2025 07:51:12.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_l
+[13Mar2025 07:51:12.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_chest_r
+[13Mar2025 07:51:12.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_chest_l
+[13Mar2025 07:51:12.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/stairs_straight
+[13Mar2025 07:51:12.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_3floor_1
+[13Mar2025 07:51:12.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_collapse
+[13Mar2025 07:51:12.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/storeroom
+[13Mar2025 07:51:12.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/junction_md
+[13Mar2025 07:51:12.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_r
+[13Mar2025 07:51:12.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_l
+[13Mar2025 07:51:12.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_r
+[13Mar2025 07:51:12.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/armoury_md
+[13Mar2025 07:51:12.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/cmd_acarii
+[13Mar2025 07:51:12.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:portal_rooms/portal_room
+[13Mar2025 07:51:12.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/treasure_room_lg
+[13Mar2025 07:51:12.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_6
+[13Mar2025 07:51:12.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/wall/treasure_wall_1
+[13Mar2025 07:51:12.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_5
+[13Mar2025 07:51:12.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_4
+[13Mar2025 07:51:12.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/portal/treasure_portal_5
+[13Mar2025 07:51:12.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/crypt_sm
+[13Mar2025 07:51:12.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_cell
+[13Mar2025 07:51:12.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_3floor_0
+[13Mar2025 07:51:12.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_l
+[13Mar2025 07:51:12.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_r
+[13Mar2025 07:51:12.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_r
+[13Mar2025 07:51:12.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_sword
+[13Mar2025 07:51:12.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_l
+[13Mar2025 07:51:12.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_chest_l
+[13Mar2025 07:51:12.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_r
+[13Mar2025 07:51:12.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_chest_r
+[13Mar2025 07:51:12.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_l
+[13Mar2025 07:51:12.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end
+[13Mar2025 07:51:14.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_5
+[13Mar2025 07:51:34.647] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4869, l='ServerLevel[Sonder]', x=1893.50, y=-22.00, z=-4760.50, removed=DISCARDED].
+[13Mar2025 07:51:34.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:51:34.649] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4871, l='ServerLevel[Sonder]', x=1894.50, y=-22.00, z=-4760.50, removed=DISCARDED].
+[13Mar2025 07:51:34.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:51:34.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/right
+[13Mar2025 07:51:34.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/left
+[13Mar2025 07:51:34.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top
+[13Mar2025 07:51:34.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top_right_corner
+[13Mar2025 07:51:34.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top_left_corner
+[13Mar2025 07:51:34.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_left_corner
+[13Mar2025 07:51:34.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_right_corner_2
+[13Mar2025 07:51:35.169] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/4938, l='ServerLevel[Sonder]', x=1866.50, y=-48.00, z=-4679.50, removed=DISCARDED].
+[13Mar2025 07:51:35.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:51:39.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moony_3 moved too quickly! -8.40129351178939,6.6774724799794,0.32403151553080534
+[13Mar2025 07:51:39.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[13Mar2025 07:51:40.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterjungletemples:floor_2/room/floor_2_puzzle_room_0
+[13Mar2025 07:51:40.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterjungletemples:floor_2/hallway/floor_2_hallway_4
+[13Mar2025 07:51:40.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterjungletemples:stairs/stairs_0
+[13Mar2025 07:51:40.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterjungletemples:floor_2/room/floor_2_corridor_room_0
+[13Mar2025 07:51:40.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterjungletemples:stairs/stairs_3
+[13Mar2025 07:51:40.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterjungletemples:top/top_0
+[13Mar2025 07:51:46.682] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed MaggotEntity['Corpse Maggot'/5347, l='ServerLevel[Sonder]', x=1905.02, y=-42.00, z=-4753.98, removed=DISCARDED].
+[13Mar2025 07:51:46.683] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed MaggotEntity['Corpse Maggot'/5348, l='ServerLevel[Sonder]', x=1904.72, y=-42.00, z=-4754.18, removed=DISCARDED].
+[13Mar2025 07:52:05.493] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed MaggotEntity['Corpse Maggot'/5379, l='ServerLevel[Sonder]', x=1906.00, y=-43.00, z=-4749.90, removed=DISCARDED].
+[13Mar2025 07:52:05.493] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed MaggotEntity['Corpse Maggot'/5380, l='ServerLevel[Sonder]', x=1905.70, y=-43.00, z=-4750.10, removed=DISCARDED].
+[13Mar2025 07:52:14.518] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/5415, l='ServerLevel[Sonder]', x=1908.50, y=-48.00, z=-4671.50, removed=DISCARDED].
+[13Mar2025 07:52:14.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:52:15.134] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed MaggotEntity['Corpse Maggot'/5419, l='ServerLevel[Sonder]', x=1909.95, y=-45.00, z=-4746.01, removed=DISCARDED].
+[13Mar2025 07:52:20.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/zombie_start
+[13Mar2025 07:52:20.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_1
+[13Mar2025 07:52:20.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_0
+[13Mar2025 07:52:20.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_2
+[13Mar2025 07:52:20.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_0
+[13Mar2025 07:52:20.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_0
+[13Mar2025 07:52:20.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_2
+[13Mar2025 07:52:20.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_double_0
+[13Mar2025 07:52:20.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_1
+[13Mar2025 07:52:20.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_stairs
+[13Mar2025 07:52:20.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_4
+[13Mar2025 07:52:20.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_single_0
+[13Mar2025 07:52:20.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_3
+[13Mar2025 07:52:20.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_0
+[13Mar2025 07:52:20.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_empty
+[13Mar2025 07:52:20.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_0
+[13Mar2025 07:52:20.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_6
+[13Mar2025 07:52:20.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_specialroom_0
+[13Mar2025 07:52:20.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_4
+[13Mar2025 07:52:20.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_2
+[13Mar2025 07:52:20.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_2
+[13Mar2025 07:52:20.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_1
+[13Mar2025 07:52:20.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_2
+[13Mar2025 07:52:20.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_0
+[13Mar2025 07:52:20.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_1
+[13Mar2025 07:52:20.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_7
+[13Mar2025 07:52:20.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_5
+[13Mar2025 07:52:20.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_3
+[13Mar2025 07:52:20.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_1
+[13Mar2025 07:52:20.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_0
+[13Mar2025 07:52:20.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_2
+[13Mar2025 07:52:20.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_sm_single_0
+[13Mar2025 07:52:20.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_4
+[13Mar2025 07:52:20.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_1
+[13Mar2025 07:52:20.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_1
+[13Mar2025 07:52:20.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_8
+[13Mar2025 07:52:20.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_9
+[13Mar2025 07:52:20.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_3
+[13Mar2025 07:52:20.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_2
+[13Mar2025 07:52:20.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_3
+[13Mar2025 07:52:20.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_0
+[13Mar2025 07:52:20.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_1
+[13Mar2025 07:52:20.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_closed
+[13Mar2025 07:52:20.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_1
+[13Mar2025 07:52:20.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_0
+[13Mar2025 07:52:20.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_closed
+[13Mar2025 07:52:20.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_0
+[13Mar2025 07:52:20.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_closed
+[13Mar2025 07:52:20.047] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_1
+[13Mar2025 07:52:20.047] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_closed
+[13Mar2025 07:52:29.866] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/5558, l='ServerLevel[Sonder]', x=1887.50, y=-6.00, z=-4743.50, removed=DISCARDED].
+[13Mar2025 07:52:29.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[13Mar2025 07:52:29.866] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed Peeper['Peeper'/5560, l='ServerLevel[Sonder]', x=1889.50, y=-6.00, z=-4735.50, removed=DISCARDED].
+[13Mar2025 07:52:29.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
