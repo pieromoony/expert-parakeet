@@ -3474,3 +3474,620 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [22Mar2025 19:51:36.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [22Mar2025 19:52:29.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [22Mar2025 19:53:26.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 19:56:11.448] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player IanArmstrong1 is aee881d5-0802-4406-a3c2-b26fa0e307d9
+[22Mar2025 19:56:18.767] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/hellbark' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.767] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/dead_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.767] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/umbran' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.767] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/flowering_oak_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.767] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/orange_autumn_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.767] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/pink_cherry_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.767] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/palm' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.767] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/hellbark_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.767] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/magic' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/jacaranda_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/redwood_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/willow_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/umbran_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/jacaranda' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/fir' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/willow' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/dead' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/mahogany_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/palm_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/yellow_autumn_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/redwood' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/origin_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/maple_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/cherry' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/rainbow_birch_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/magic_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/mahogany' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/white_cherry_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.768] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfencesbop:recipes/fir_hedge' in progress file ./world/advancements/aee881d5-0802-4406-a3c2-b26fa0e307d9.json - it doesn't exist anymore?
+[22Mar2025 19:56:18.769] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9a06c65
+[22Mar2025 19:56:18.789] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_bridge_pier removed now.
+[22Mar2025 19:56:18.790] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[22Mar2025 19:56:18.790] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[22Mar2025 19:56:18.790] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[22Mar2025 19:56:18.790] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_hedge removed now.
+[22Mar2025 19:56:18.790] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_ancient_fruit_to_ancient_seed removed now.
+[22Mar2025 19:56:18.790] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.790] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_dead_sapling_to_tall_dying_seed removed now.
+[22Mar2025 19:56:18.791] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:ancient_seed_to_quark_ancient_sapling removed now.
+[22Mar2025 19:56:18.791] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_log_bridge_stair removed now.
+[22Mar2025 19:56:18.791] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:red_maple_seed_to_autumnity_red_maple_sapling removed now.
+[22Mar2025 19:56:18.791] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_maple_sapling_to_maple_seed removed now.
+[22Mar2025 19:56:18.791] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_stockade_fence removed now.
+[22Mar2025 19:56:18.792] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:yellow_autumn_seed_to_biomesoplenty_yellow_autumn_sapling removed now.
+[22Mar2025 19:56:18.792] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.792] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[22Mar2025 19:56:18.792] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_umbran_bridge removed now.
+[22Mar2025 19:56:18.792] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_stockade_fence removed now.
+[22Mar2025 19:56:18.792] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtneapolitan:banana_seed_to_neapolitan_banana_frond removed now.
+[22Mar2025 19:56:18.792] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:glow_shroom_seed_to_quark_glow_shroom removed now.
+[22Mar2025 19:56:18.793] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.793] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_log_bridge_stair removed now.
+[22Mar2025 19:56:18.793] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_hedge removed now.
+[22Mar2025 19:56:18.794] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_stockade_fence removed now.
+[22Mar2025 19:56:18.794] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:autumnity_maple_sapling_to_maple_seed removed now.
+[22Mar2025 19:56:18.794] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_hellbark_bridge removed now.
+[22Mar2025 19:56:18.794] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_log_bridge_stair removed now.
+[22Mar2025 19:56:18.795] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_horse_fence removed now.
+[22Mar2025 19:56:18.795] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.795] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[22Mar2025 19:56:18.795] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_wired_fence removed now.
+[22Mar2025 19:56:18.795] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[22Mar2025 19:56:18.795] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtupgradeaquatic:upgrade_aquatic_mulberry_to_mulberry_seed removed now.
+[22Mar2025 19:56:18.795] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_pyramid_gate removed now.
+[22Mar2025 19:56:18.796] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_stockade_fence removed now.
+[22Mar2025 19:56:18.796] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:palm_seed_to_biomesoplenty_palm_sapling removed now.
+[22Mar2025 19:56:18.796] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_stockade_fence removed now.
+[22Mar2025 19:56:18.796] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:sunny_blossom_seed_to_quark_yellow_blossom_sapling removed now.
+[22Mar2025 19:56:18.796] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:magic_poplar_seed_to_biomesoplenty_magic_sapling removed now.
+[22Mar2025 19:56:18.796] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_palm_sapling_to_palm_seed removed now.
+[22Mar2025 19:56:18.796] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_pyramid_gate removed now.
+[22Mar2025 19:56:18.797] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.797] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_bridge_pier removed now.
+[22Mar2025 19:56:18.797] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_stockade_fence removed now.
+[22Mar2025 19:56:18.797] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtneapolitan:neapolitan_banana_frond_to_banana_seed removed now.
+[22Mar2025 19:56:18.797] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_picket_fence removed now.
+[22Mar2025 19:56:18.797] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_log_bridge_stair removed now.
+[22Mar2025 19:56:18.797] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.798] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictreesplus:minecraft_red_mushroom_to_red_mushroom_seed removed now.
+[22Mar2025 19:56:18.798] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_wired_fence removed now.
+[22Mar2025 19:56:18.798] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_picket_fence removed now.
+[22Mar2025 19:56:18.798] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_pyramid_gate removed now.
+[22Mar2025 19:56:18.798] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_jacaranda_bridge removed now.
+[22Mar2025 19:56:18.798] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_log_bridge_middle removed now.
+[22Mar2025 19:56:18.799] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:enderbark_seed_to_tconstruct_ender_slime_sapling removed now.
+[22Mar2025 19:56:18.799] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_flowering_oak_sapling_to_flowering_oak_seed removed now.
+[22Mar2025 19:56:18.799] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_log_bridge_stair removed now.
+[22Mar2025 19:56:18.799] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictreesplus:minecraft_brown_mushroom_to_brown_mushroom_seed removed now.
+[22Mar2025 19:56:18.799] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[22Mar2025 19:56:18.799] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_log_bridge_stair removed now.
+[22Mar2025 19:56:18.799] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:maple_seed_to_biomesoplenty_maple_sapling removed now.
+[22Mar2025 19:56:18.799] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_log_bridge_middle removed now.
+[22Mar2025 19:56:18.800] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:white_cherry_seed_to_biomesoplenty_white_cherry_sapling removed now.
+[22Mar2025 19:56:18.800] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_horse_fence removed now.
+[22Mar2025 19:56:18.800] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_rail_bridge removed now.
+[22Mar2025 19:56:18.800] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_wired_fence removed now.
+[22Mar2025 19:56:18.800] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_highley_gate removed now.
+[22Mar2025 19:56:18.800] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_hedge removed now.
+[22Mar2025 19:56:18.801] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_picket_fence removed now.
+[22Mar2025 19:56:18.801] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_umbran_sapling_to_umbran_seed removed now.
+[22Mar2025 19:56:18.801] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_blue_blossom_sapling_to_frosty_blossom_seed removed now.
+[22Mar2025 19:56:18.801] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_fir_sapling_to_fir_seed removed now.
+[22Mar2025 19:56:18.801] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:tconstruct_ender_slime_sapling_to_enderbark_seed removed now.
+[22Mar2025 19:56:18.802] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_hedge removed now.
+[22Mar2025 19:56:18.802] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:flowering_oak_hedge removed now.
+[22Mar2025 19:56:18.802] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:silk_seed_to_biomesoplenty_dead_sapling removed now.
+[22Mar2025 19:56:18.802] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_stockade_fence removed now.
+[22Mar2025 19:56:18.802] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.802] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_highley_gate removed now.
+[22Mar2025 19:56:18.803] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_log_bridge_stair removed now.
+[22Mar2025 19:56:18.803] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:rainbow_birch_hedge removed now.
+[22Mar2025 19:56:18.803] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_wired_fence removed now.
+[22Mar2025 19:56:18.803] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_bridge_pier removed now.
+[22Mar2025 19:56:18.803] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_stockade_fence removed now.
+[22Mar2025 19:56:18.803] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_highley_gate removed now.
+[22Mar2025 19:56:18.804] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:bloodshroom_seed_to_tconstruct_blood_slime_sapling removed now.
+[22Mar2025 19:56:18.804] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[22Mar2025 19:56:18.804] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_orange_autumn_sapling_to_orange_autumn_seed removed now.
+[22Mar2025 19:56:18.804] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_yellow_blossom_sapling_to_sunny_blossom_seed removed now.
+[22Mar2025 19:56:18.804] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_dead_sapling_to_silk_seed removed now.
+[22Mar2025 19:56:18.804] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:tconstruct_earth_slime_sapling_to_greenheart_seed removed now.
+[22Mar2025 19:56:18.805] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[22Mar2025 19:56:18.805] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_horse_fence removed now.
+[22Mar2025 19:56:18.805] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_jacaranda_sapling_to_jacaranda_seed removed now.
+[22Mar2025 19:56:18.805] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:fir_seed_to_biomesoplenty_fir_sapling removed now.
+[22Mar2025 19:56:18.805] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_rail_bridge removed now.
+[22Mar2025 19:56:18.805] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_picket_fence removed now.
+[22Mar2025 19:56:18.806] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_willow_bridge removed now.
+[22Mar2025 19:56:18.806] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_magic_sapling_to_magic_poplar_seed removed now.
+[22Mar2025 19:56:18.806] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[22Mar2025 19:56:18.806] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_hedge removed now.
+[22Mar2025 19:56:18.806] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_bridge_pier removed now.
+[22Mar2025 19:56:18.806] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_wired_fence removed now.
+[22Mar2025 19:56:18.807] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.807] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_pyramid_gate removed now.
+[22Mar2025 19:56:18.807] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_fir_bridge removed now.
+[22Mar2025 19:56:18.807] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_highley_gate removed now.
+[22Mar2025 19:56:18.808] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.808] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.808] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.808] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:origin_hedge removed now.
+[22Mar2025 19:56:18.808] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.808] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.808] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_stockade_fence removed now.
+[22Mar2025 19:56:18.808] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_yellow_autumn_sapling_to_yellow_autumn_seed removed now.
+[22Mar2025 19:56:18.809] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_pink_blossom_sapling_to_sweet_blossom_seed removed now.
+[22Mar2025 19:56:18.809] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[22Mar2025 19:56:18.809] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[22Mar2025 19:56:18.809] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_log_bridge_middle removed now.
+[22Mar2025 19:56:18.809] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_palm_bridge removed now.
+[22Mar2025 19:56:18.809] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_highley_gate removed now.
+[22Mar2025 19:56:18.810] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_hedge removed now.
+[22Mar2025 19:56:18.810] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.810] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_dead_bridge removed now.
+[22Mar2025 19:56:18.810] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.810] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_bridge_pier removed now.
+[22Mar2025 19:56:18.811] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_highley_gate removed now.
+[22Mar2025 19:56:18.811] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.811] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_horse_fence removed now.
+[22Mar2025 19:56:18.811] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.811] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_redwood_bridge removed now.
+[22Mar2025 19:56:18.811] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_mahogany_bridge removed now.
+[22Mar2025 19:56:18.812] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_red_blossom_sapling_to_fiery_blossom_seed removed now.
+[22Mar2025 19:56:18.812] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_bridge_pier removed now.
+[22Mar2025 19:56:18.812] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_wired_fence removed now.
+[22Mar2025 19:56:18.812] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_bridge_pier removed now.
+[22Mar2025 19:56:18.813] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:tconstruct_sky_slime_sapling_to_skyroot_seed removed now.
+[22Mar2025 19:56:18.813] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_log_bridge_stair removed now.
+[22Mar2025 19:56:18.813] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:yellow_maple_seed_to_autumnity_yellow_maple_sapling removed now.
+[22Mar2025 19:56:18.813] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_rail_bridge removed now.
+[22Mar2025 19:56:18.813] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.813] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_pyramid_gate removed now.
+[22Mar2025 19:56:18.814] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_horse_fence removed now.
+[22Mar2025 19:56:18.814] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_dead_sapling_to_infested_seed removed now.
+[22Mar2025 19:56:18.814] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_rail_bridge removed now.
+[22Mar2025 19:56:18.815] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:infested_seed_to_biomesoplenty_dead_sapling removed now.
+[22Mar2025 19:56:18.815] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.815] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_picket_fence removed now.
+[22Mar2025 19:56:18.815] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.815] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_highley_gate removed now.
+[22Mar2025 19:56:18.815] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_picket_fence removed now.
+[22Mar2025 19:56:18.815] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:rainbow_birch_seed_to_biomesoplenty_rainbow_birch_sapling removed now.
+[22Mar2025 19:56:18.815] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_picket_fence removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_rail_bridge removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:umbran_seed_to_biomesoplenty_umbran_sapling removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_pyramid_gate removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_bridge_pier removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_ancient_sapling_to_ancient_seed removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtupgradeaquatic:mulberry_seed_to_upgrade_aquatic_river_sapling removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_log_bridge_middle removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_lavender_blossom_sapling_to_serene_blossom_seed removed now.
+[22Mar2025 19:56:18.816] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.817] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:small_redwood_seed_to_biomesoplenty_redwood_sapling removed now.
+[22Mar2025 19:56:18.817] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_log_bridge_stair removed now.
+[22Mar2025 19:56:18.817] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_magic_bridge removed now.
+[22Mar2025 19:56:18.817] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[22Mar2025 19:56:18.817] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:jacaranda_seed_to_biomesoplenty_jacaranda_sapling removed now.
+[22Mar2025 19:56:18.817] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:tall_dying_seed_to_biomesoplenty_dead_sapling removed now.
+[22Mar2025 19:56:18.817] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:yellow_autumn_hedge removed now.
+[22Mar2025 19:56:18.817] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.818] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_cherry_bridge removed now.
+[22Mar2025 19:56:18.818] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.818] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictreesplus:brown_mushroom_seed_to_minecraft_brown_mushroom removed now.
+[22Mar2025 19:56:18.818] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.818] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:frosty_blossom_seed_to_quark_blue_blossom_sapling removed now.
+[22Mar2025 19:56:18.818] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:white_cherry_hedge removed now.
+[22Mar2025 19:56:18.819] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_picket_fence removed now.
+[22Mar2025 19:56:18.819] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:sweet_blossom_seed_to_quark_pink_blossom_sapling removed now.
+[22Mar2025 19:56:18.819] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.819] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.819] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_picket_fence removed now.
+[22Mar2025 19:56:18.819] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:greenheart_seed_to_tconstruct_earth_slime_sapling removed now.
+[22Mar2025 19:56:18.820] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictreesplus:red_mushroom_seed_to_minecraft_red_mushroom removed now.
+[22Mar2025 19:56:18.820] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.820] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_rail_bridge removed now.
+[22Mar2025 19:56:18.820] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_log_bridge_middle removed now.
+[22Mar2025 19:56:18.820] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.820] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[22Mar2025 19:56:18.820] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:dying_seed_to_biomesoplenty_dead_sapling removed now.
+[22Mar2025 19:56:18.821] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_wired_fence removed now.
+[22Mar2025 19:56:18.821] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:hellbark_bush_seed_to_biomesoplenty_hellbark_sapling removed now.
+[22Mar2025 19:56:18.821] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:willow_seed_to_biomesoplenty_willow_sapling removed now.
+[22Mar2025 19:56:18.821] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_log_bridge_middle removed now.
+[22Mar2025 19:56:18.821] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_pyramid_gate removed now.
+[22Mar2025 19:56:18.821] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:skyroot_seed_to_tconstruct_sky_slime_sapling removed now.
+[22Mar2025 19:56:18.821] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_horse_fence removed now.
+[22Mar2025 19:56:18.821] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.822] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_rail_bridge removed now.
+[22Mar2025 19:56:18.822] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_horse_fence removed now.
+[22Mar2025 19:56:18.822] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_stockade_fence removed now.
+[22Mar2025 19:56:18.822] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.822] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_pyramid_gate removed now.
+[22Mar2025 19:56:18.822] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_wired_fence removed now.
+[22Mar2025 19:56:18.823] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_highley_gate removed now.
+[22Mar2025 19:56:18.823] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_hedge removed now.
+[22Mar2025 19:56:18.823] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.823] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_log_bridge_stair removed now.
+[22Mar2025 19:56:18.823] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:autumnity_orange_maple_sapling_to_orange_maple_seed removed now.
+[22Mar2025 19:56:18.823] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.824] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_rail_bridge removed now.
+[22Mar2025 19:56:18.824] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_stockade_fence removed now.
+[22Mar2025 19:56:18.824] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_hedge removed now.
+[22Mar2025 19:56:18.824] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_pyramid_gate removed now.
+[22Mar2025 19:56:18.824] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[22Mar2025 19:56:18.824] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_log_bridge_middle removed now.
+[22Mar2025 19:56:18.825] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.825] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_highley_gate removed now.
+[22Mar2025 19:56:18.825] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_log_bridge_middle removed now.
+[22Mar2025 19:56:18.825] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_picket_fence removed now.
+[22Mar2025 19:56:18.825] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:serene_blossom_seed_to_quark_lavender_blossom_sapling removed now.
+[22Mar2025 19:56:18.825] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:pink_cherry_seed_to_biomesoplenty_white_cherry_sapling removed now.
+[22Mar2025 19:56:18.826] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_bridge_pier removed now.
+[22Mar2025 19:56:18.826] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:mahogany_seed_to_biomesoplenty_mahogany_sapling removed now.
+[22Mar2025 19:56:18.826] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtupgradeaquatic:upgrade_aquatic_river_sapling_to_mulberry_seed removed now.
+[22Mar2025 19:56:18.826] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_horse_fence removed now.
+[22Mar2025 19:56:18.827] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:orange_maple_seed_to_autumnity_orange_maple_sapling removed now.
+[22Mar2025 19:56:18.827] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:maple_seed_to_autumnity_maple_sapling removed now.
+[22Mar2025 19:56:18.827] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_dead_sapling_to_dying_seed removed now.
+[22Mar2025 19:56:18.827] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_pyramid_gate removed now.
+[22Mar2025 19:56:18.827] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_bridge_pier removed now.
+[22Mar2025 19:56:18.828] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:maple_hedge removed now.
+[22Mar2025 19:56:18.828] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_bridge_pier removed now.
+[22Mar2025 19:56:18.828] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_hedge removed now.
+[22Mar2025 19:56:18.828] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_pyramid_gate removed now.
+[22Mar2025 19:56:18.828] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_willow_sapling_to_willow_seed removed now.
+[22Mar2025 19:56:18.828] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:tconstruct_blood_slime_sapling_to_bloodshroom_seed removed now.
+[22Mar2025 19:56:18.828] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[22Mar2025 19:56:18.829] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:fiery_blossom_seed_to_quark_red_blossom_sapling removed now.
+[22Mar2025 19:56:18.829] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_mahogany_sapling_to_mahogany_seed removed now.
+[22Mar2025 19:56:18.829] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_highley_gate removed now.
+[22Mar2025 19:56:18.829] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_picket_fence removed now.
+[22Mar2025 19:56:18.829] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_hellbark_sapling_to_hellbark_bush_seed removed now.
+[22Mar2025 19:56:18.829] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:flowering_oak_seed_to_biomesoplenty_flowering_oak_sapling removed now.
+[22Mar2025 19:56:18.829] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_log_bridge_middle removed now.
+[22Mar2025 19:56:18.829] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_log_bridge_middle removed now.
+[22Mar2025 19:56:18.829] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_highley_gate removed now.
+[22Mar2025 19:56:18.830] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_wired_fence removed now.
+[22Mar2025 19:56:18.830] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[22Mar2025 19:56:18.830] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_wired_fence removed now.
+[22Mar2025 19:56:18.830] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:warm_blossom_seed_to_quark_orange_blossom_sapling removed now.
+[22Mar2025 19:56:18.830] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_redwood_sapling_to_small_redwood_seed removed now.
+[22Mar2025 19:56:18.830] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_rail_bridge removed now.
+[22Mar2025 19:56:18.830] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_horse_fence removed now.
+[22Mar2025 19:56:18.830] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:autumnity_yellow_maple_sapling_to_yellow_maple_seed removed now.
+[22Mar2025 19:56:18.830] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:pink_cherry_hedge removed now.
+[22Mar2025 19:56:18.831] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[22Mar2025 19:56:18.831] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_log_bridge_middle removed now.
+[22Mar2025 19:56:18.831] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_hedge removed now.
+[22Mar2025 19:56:18.831] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_horse_fence removed now.
+[22Mar2025 19:56:18.832] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_rail_bridge removed now.
+[22Mar2025 19:56:18.832] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[22Mar2025 19:56:18.832] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[22Mar2025 19:56:18.832] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_rail_bridge removed now.
+[22Mar2025 19:56:18.832] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_white_cherry_sapling_to_white_cherry_seed removed now.
+[22Mar2025 19:56:18.832] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_white_cherry_sapling_to_pink_cherry_seed removed now.
+[22Mar2025 19:56:18.832] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_rainbow_birch_sapling_to_rainbow_birch_seed removed now.
+[22Mar2025 19:56:18.832] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_horse_fence removed now.
+[22Mar2025 19:56:18.833] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_glow_shroom_to_glow_shroom_seed removed now.
+[22Mar2025 19:56:18.833] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:orange_autumn_seed_to_biomesoplenty_orange_autumn_sapling removed now.
+[22Mar2025 19:56:18.833] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_orange_blossom_sapling_to_warm_blossom_seed removed now.
+[22Mar2025 19:56:18.833] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:orange_autumn_hedge removed now.
+[22Mar2025 19:56:18.833] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:autumnity_red_maple_sapling_to_red_maple_seed removed now.
+[22Mar2025 19:56:18.833] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[22Mar2025 19:56:18.834] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[22Mar2025 19:56:18.834] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_wired_fence removed now.
+[22Mar2025 19:56:18.834] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_log_bridge_stair removed now.
+[22Mar2025 19:56:18.834] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_bridge_pier removed now.
+[22Mar2025 19:56:18.834] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[22Mar2025 19:56:18.835] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[22Mar2025 19:56:18.835] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[22Mar2025 19:56:18.835] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_hedge removed now.
+[22Mar2025 19:56:18.835] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_ancient_fruit_to_ancient_seed removed now.
+[22Mar2025 19:56:18.835] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.835] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_dead_sapling_to_tall_dying_seed removed now.
+[22Mar2025 19:56:18.836] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:ancient_seed_to_quark_ancient_sapling removed now.
+[22Mar2025 19:56:18.836] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_log_bridge_stair removed now.
+[22Mar2025 19:56:18.836] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:red_maple_seed_to_autumnity_red_maple_sapling removed now.
+[22Mar2025 19:56:18.836] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_maple_sapling_to_maple_seed removed now.
+[22Mar2025 19:56:18.836] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_stockade_fence removed now.
+[22Mar2025 19:56:18.836] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:yellow_autumn_seed_to_biomesoplenty_yellow_autumn_sapling removed now.
+[22Mar2025 19:56:18.837] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.837] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[22Mar2025 19:56:18.837] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_umbran_bridge removed now.
+[22Mar2025 19:56:18.837] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_stockade_fence removed now.
+[22Mar2025 19:56:18.837] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtneapolitan:banana_seed_to_neapolitan_banana_frond removed now.
+[22Mar2025 19:56:18.837] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:glow_shroom_seed_to_quark_glow_shroom removed now.
+[22Mar2025 19:56:18.837] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.838] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_log_bridge_stair removed now.
+[22Mar2025 19:56:18.838] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_hedge removed now.
+[22Mar2025 19:56:18.839] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_stockade_fence removed now.
+[22Mar2025 19:56:18.839] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:autumnity_maple_sapling_to_maple_seed removed now.
+[22Mar2025 19:56:18.839] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_hellbark_bridge removed now.
+[22Mar2025 19:56:18.839] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_log_bridge_stair removed now.
+[22Mar2025 19:56:18.839] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_horse_fence removed now.
+[22Mar2025 19:56:18.839] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.839] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[22Mar2025 19:56:18.840] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_wired_fence removed now.
+[22Mar2025 19:56:18.840] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[22Mar2025 19:56:18.840] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtupgradeaquatic:upgrade_aquatic_mulberry_to_mulberry_seed removed now.
+[22Mar2025 19:56:18.840] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_pyramid_gate removed now.
+[22Mar2025 19:56:18.840] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_stockade_fence removed now.
+[22Mar2025 19:56:18.840] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:palm_seed_to_biomesoplenty_palm_sapling removed now.
+[22Mar2025 19:56:18.841] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_stockade_fence removed now.
+[22Mar2025 19:56:18.841] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:sunny_blossom_seed_to_quark_yellow_blossom_sapling removed now.
+[22Mar2025 19:56:18.841] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:magic_poplar_seed_to_biomesoplenty_magic_sapling removed now.
+[22Mar2025 19:56:18.841] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_palm_sapling_to_palm_seed removed now.
+[22Mar2025 19:56:18.842] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_pyramid_gate removed now.
+[22Mar2025 19:56:18.842] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.843] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_bridge_pier removed now.
+[22Mar2025 19:56:18.843] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_stockade_fence removed now.
+[22Mar2025 19:56:18.843] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtneapolitan:neapolitan_banana_frond_to_banana_seed removed now.
+[22Mar2025 19:56:18.843] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_picket_fence removed now.
+[22Mar2025 19:56:18.843] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_log_bridge_stair removed now.
+[22Mar2025 19:56:18.844] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.844] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictreesplus:minecraft_red_mushroom_to_red_mushroom_seed removed now.
+[22Mar2025 19:56:18.844] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_wired_fence removed now.
+[22Mar2025 19:56:18.844] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_picket_fence removed now.
+[22Mar2025 19:56:18.844] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_pyramid_gate removed now.
+[22Mar2025 19:56:18.844] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_jacaranda_bridge removed now.
+[22Mar2025 19:56:18.844] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_log_bridge_middle removed now.
+[22Mar2025 19:56:18.845] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:enderbark_seed_to_tconstruct_ender_slime_sapling removed now.
+[22Mar2025 19:56:18.845] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_flowering_oak_sapling_to_flowering_oak_seed removed now.
+[22Mar2025 19:56:18.845] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_log_bridge_stair removed now.
+[22Mar2025 19:56:18.845] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictreesplus:minecraft_brown_mushroom_to_brown_mushroom_seed removed now.
+[22Mar2025 19:56:18.845] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[22Mar2025 19:56:18.845] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_log_bridge_stair removed now.
+[22Mar2025 19:56:18.845] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:maple_seed_to_biomesoplenty_maple_sapling removed now.
+[22Mar2025 19:56:18.846] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_log_bridge_middle removed now.
+[22Mar2025 19:56:18.846] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:white_cherry_seed_to_biomesoplenty_white_cherry_sapling removed now.
+[22Mar2025 19:56:18.846] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_horse_fence removed now.
+[22Mar2025 19:56:18.846] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_rail_bridge removed now.
+[22Mar2025 19:56:18.846] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_wired_fence removed now.
+[22Mar2025 19:56:18.847] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_highley_gate removed now.
+[22Mar2025 19:56:18.847] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_hedge removed now.
+[22Mar2025 19:56:18.847] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_picket_fence removed now.
+[22Mar2025 19:56:18.847] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_umbran_sapling_to_umbran_seed removed now.
+[22Mar2025 19:56:18.847] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_blue_blossom_sapling_to_frosty_blossom_seed removed now.
+[22Mar2025 19:56:18.847] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_fir_sapling_to_fir_seed removed now.
+[22Mar2025 19:56:18.848] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:tconstruct_ender_slime_sapling_to_enderbark_seed removed now.
+[22Mar2025 19:56:18.848] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_hedge removed now.
+[22Mar2025 19:56:18.848] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:flowering_oak_hedge removed now.
+[22Mar2025 19:56:18.849] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:silk_seed_to_biomesoplenty_dead_sapling removed now.
+[22Mar2025 19:56:18.849] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_stockade_fence removed now.
+[22Mar2025 19:56:18.849] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.849] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_highley_gate removed now.
+[22Mar2025 19:56:18.849] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_log_bridge_stair removed now.
+[22Mar2025 19:56:18.849] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:rainbow_birch_hedge removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_wired_fence removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_bridge_pier removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_stockade_fence removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_highley_gate removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:bloodshroom_seed_to_tconstruct_blood_slime_sapling removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_orange_autumn_sapling_to_orange_autumn_seed removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_yellow_blossom_sapling_to_sunny_blossom_seed removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_dead_sapling_to_silk_seed removed now.
+[22Mar2025 19:56:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:tconstruct_earth_slime_sapling_to_greenheart_seed removed now.
+[22Mar2025 19:56:18.851] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[22Mar2025 19:56:18.851] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_horse_fence removed now.
+[22Mar2025 19:56:18.851] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_jacaranda_sapling_to_jacaranda_seed removed now.
+[22Mar2025 19:56:18.851] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:fir_seed_to_biomesoplenty_fir_sapling removed now.
+[22Mar2025 19:56:18.851] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_rail_bridge removed now.
+[22Mar2025 19:56:18.851] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_picket_fence removed now.
+[22Mar2025 19:56:18.852] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_willow_bridge removed now.
+[22Mar2025 19:56:18.852] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_magic_sapling_to_magic_poplar_seed removed now.
+[22Mar2025 19:56:18.852] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[22Mar2025 19:56:18.853] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_hedge removed now.
+[22Mar2025 19:56:18.853] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_bridge_pier removed now.
+[22Mar2025 19:56:18.854] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_wired_fence removed now.
+[22Mar2025 19:56:18.854] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.854] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_pyramid_gate removed now.
+[22Mar2025 19:56:18.854] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_fir_bridge removed now.
+[22Mar2025 19:56:18.855] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_highley_gate removed now.
+[22Mar2025 19:56:18.855] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.856] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.856] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.856] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:origin_hedge removed now.
+[22Mar2025 19:56:18.856] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.856] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.856] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_stockade_fence removed now.
+[22Mar2025 19:56:18.856] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_yellow_autumn_sapling_to_yellow_autumn_seed removed now.
+[22Mar2025 19:56:18.857] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_pink_blossom_sapling_to_sweet_blossom_seed removed now.
+[22Mar2025 19:56:18.857] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[22Mar2025 19:56:18.857] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[22Mar2025 19:56:18.857] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_log_bridge_middle removed now.
+[22Mar2025 19:56:18.857] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_palm_bridge removed now.
+[22Mar2025 19:56:18.858] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_highley_gate removed now.
+[22Mar2025 19:56:18.858] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_hedge removed now.
+[22Mar2025 19:56:18.858] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.858] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_dead_bridge removed now.
+[22Mar2025 19:56:18.858] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.858] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_bridge_pier removed now.
+[22Mar2025 19:56:18.859] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_highley_gate removed now.
+[22Mar2025 19:56:18.859] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.859] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_horse_fence removed now.
+[22Mar2025 19:56:18.859] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.859] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_redwood_bridge removed now.
+[22Mar2025 19:56:18.859] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_mahogany_bridge removed now.
+[22Mar2025 19:56:18.860] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_red_blossom_sapling_to_fiery_blossom_seed removed now.
+[22Mar2025 19:56:18.860] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_bridge_pier removed now.
+[22Mar2025 19:56:18.860] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_wired_fence removed now.
+[22Mar2025 19:56:18.860] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_bridge_pier removed now.
+[22Mar2025 19:56:18.861] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:tconstruct_sky_slime_sapling_to_skyroot_seed removed now.
+[22Mar2025 19:56:18.861] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_log_bridge_stair removed now.
+[22Mar2025 19:56:18.861] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:yellow_maple_seed_to_autumnity_yellow_maple_sapling removed now.
+[22Mar2025 19:56:18.861] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_rail_bridge removed now.
+[22Mar2025 19:56:18.862] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.862] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_pyramid_gate removed now.
+[22Mar2025 19:56:18.862] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_horse_fence removed now.
+[22Mar2025 19:56:18.862] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_dead_sapling_to_infested_seed removed now.
+[22Mar2025 19:56:18.863] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_rail_bridge removed now.
+[22Mar2025 19:56:18.863] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:infested_seed_to_biomesoplenty_dead_sapling removed now.
+[22Mar2025 19:56:18.863] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.863] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_picket_fence removed now.
+[22Mar2025 19:56:18.864] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.864] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_highley_gate removed now.
+[22Mar2025 19:56:18.864] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_picket_fence removed now.
+[22Mar2025 19:56:18.864] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:rainbow_birch_seed_to_biomesoplenty_rainbow_birch_sapling removed now.
+[22Mar2025 19:56:18.864] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_picket_fence removed now.
+[22Mar2025 19:56:18.864] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:jacaranda_rail_bridge removed now.
+[22Mar2025 19:56:18.864] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:umbran_seed_to_biomesoplenty_umbran_sapling removed now.
+[22Mar2025 19:56:18.864] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_pyramid_gate removed now.
+[22Mar2025 19:56:18.864] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_bridge_pier removed now.
+[22Mar2025 19:56:18.865] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[22Mar2025 19:56:18.865] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_ancient_sapling_to_ancient_seed removed now.
+[22Mar2025 19:56:18.865] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtupgradeaquatic:mulberry_seed_to_upgrade_aquatic_river_sapling removed now.
+[22Mar2025 19:56:18.865] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_log_bridge_middle removed now.
+[22Mar2025 19:56:18.865] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_lavender_blossom_sapling_to_serene_blossom_seed removed now.
+[22Mar2025 19:56:18.865] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.865] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:small_redwood_seed_to_biomesoplenty_redwood_sapling removed now.
+[22Mar2025 19:56:18.866] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_log_bridge_stair removed now.
+[22Mar2025 19:56:18.866] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_magic_bridge removed now.
+[22Mar2025 19:56:18.866] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[22Mar2025 19:56:18.866] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:jacaranda_seed_to_biomesoplenty_jacaranda_sapling removed now.
+[22Mar2025 19:56:18.866] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:tall_dying_seed_to_biomesoplenty_dead_sapling removed now.
+[22Mar2025 19:56:18.867] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:yellow_autumn_hedge removed now.
+[22Mar2025 19:56:18.867] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.867] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:rope_cherry_bridge removed now.
+[22Mar2025 19:56:18.867] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.867] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictreesplus:brown_mushroom_seed_to_minecraft_brown_mushroom removed now.
+[22Mar2025 19:56:18.868] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.868] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:frosty_blossom_seed_to_quark_blue_blossom_sapling removed now.
+[22Mar2025 19:56:18.868] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:white_cherry_hedge removed now.
+[22Mar2025 19:56:18.868] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_picket_fence removed now.
+[22Mar2025 19:56:18.868] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:sweet_blossom_seed_to_quark_pink_blossom_sapling removed now.
+[22Mar2025 19:56:18.868] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.869] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.869] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_picket_fence removed now.
+[22Mar2025 19:56:18.869] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:greenheart_seed_to_tconstruct_earth_slime_sapling removed now.
+[22Mar2025 19:56:18.869] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictreesplus:red_mushroom_seed_to_minecraft_red_mushroom removed now.
+[22Mar2025 19:56:18.869] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.869] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_rail_bridge removed now.
+[22Mar2025 19:56:18.869] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_log_bridge_middle removed now.
+[22Mar2025 19:56:18.869] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.870] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[22Mar2025 19:56:18.870] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:dying_seed_to_biomesoplenty_dead_sapling removed now.
+[22Mar2025 19:56:18.870] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_wired_fence removed now.
+[22Mar2025 19:56:18.870] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:hellbark_bush_seed_to_biomesoplenty_hellbark_sapling removed now.
+[22Mar2025 19:56:18.870] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:willow_seed_to_biomesoplenty_willow_sapling removed now.
+[22Mar2025 19:56:18.870] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:umbran_log_bridge_middle removed now.
+[22Mar2025 19:56:18.870] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_pyramid_gate removed now.
+[22Mar2025 19:56:18.870] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:skyroot_seed_to_tconstruct_sky_slime_sapling removed now.
+[22Mar2025 19:56:18.870] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_horse_fence removed now.
+[22Mar2025 19:56:18.871] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.871] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_rail_bridge removed now.
+[22Mar2025 19:56:18.871] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_horse_fence removed now.
+[22Mar2025 19:56:18.871] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_stockade_fence removed now.
+[22Mar2025 19:56:18.872] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:mahogany_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.872] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_pyramid_gate removed now.
+[22Mar2025 19:56:18.872] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:redwood_wired_fence removed now.
+[22Mar2025 19:56:18.872] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_highley_gate removed now.
+[22Mar2025 19:56:18.872] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_hedge removed now.
+[22Mar2025 19:56:18.872] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_rope_bridge_stair removed now.
+[22Mar2025 19:56:18.872] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:dead_log_bridge_stair removed now.
+[22Mar2025 19:56:18.873] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:autumnity_orange_maple_sapling_to_orange_maple_seed removed now.
+[22Mar2025 19:56:18.873] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_log_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.873] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_rail_bridge removed now.
+[22Mar2025 19:56:18.873] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_stockade_fence removed now.
+[22Mar2025 19:56:18.873] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:fir_hedge removed now.
+[22Mar2025 19:56:18.873] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_pyramid_gate removed now.
+[22Mar2025 19:56:18.873] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[22Mar2025 19:56:18.874] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_log_bridge_middle removed now.
+[22Mar2025 19:56:18.874] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_rope_bridge_stair_recycle removed now.
+[22Mar2025 19:56:18.874] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_highley_gate removed now.
+[22Mar2025 19:56:18.874] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:palm_log_bridge_middle removed now.
+[22Mar2025 19:56:18.874] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_picket_fence removed now.
+[22Mar2025 19:56:18.874] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:serene_blossom_seed_to_quark_lavender_blossom_sapling removed now.
+[22Mar2025 19:56:18.874] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:pink_cherry_seed_to_biomesoplenty_white_cherry_sapling removed now.
+[22Mar2025 19:56:18.875] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_bridge_pier removed now.
+[22Mar2025 19:56:18.875] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:mahogany_seed_to_biomesoplenty_mahogany_sapling removed now.
+[22Mar2025 19:56:18.875] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtupgradeaquatic:upgrade_aquatic_river_sapling_to_mulberry_seed removed now.
+[22Mar2025 19:56:18.875] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_horse_fence removed now.
+[22Mar2025 19:56:18.875] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:orange_maple_seed_to_autumnity_orange_maple_sapling removed now.
+[22Mar2025 19:56:18.876] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:maple_seed_to_autumnity_maple_sapling removed now.
+[22Mar2025 19:56:18.876] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_dead_sapling_to_dying_seed removed now.
+[22Mar2025 19:56:18.876] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:dead_pyramid_gate removed now.
+[22Mar2025 19:56:18.876] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_bridge_pier removed now.
+[22Mar2025 19:56:18.876] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:maple_hedge removed now.
+[22Mar2025 19:56:18.876] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_bridge_pier removed now.
+[22Mar2025 19:56:18.876] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_hedge removed now.
+[22Mar2025 19:56:18.877] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_pyramid_gate removed now.
+[22Mar2025 19:56:18.877] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_willow_sapling_to_willow_seed removed now.
+[22Mar2025 19:56:18.877] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dttconstruct:tconstruct_blood_slime_sapling_to_bloodshroom_seed removed now.
+[22Mar2025 19:56:18.877] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[22Mar2025 19:56:18.877] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:fiery_blossom_seed_to_quark_red_blossom_sapling removed now.
+[22Mar2025 19:56:18.877] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_mahogany_sapling_to_mahogany_seed removed now.
+[22Mar2025 19:56:18.877] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_highley_gate removed now.
+[22Mar2025 19:56:18.877] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_picket_fence removed now.
+[22Mar2025 19:56:18.878] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_hellbark_sapling_to_hellbark_bush_seed removed now.
+[22Mar2025 19:56:18.878] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:flowering_oak_seed_to_biomesoplenty_flowering_oak_sapling removed now.
+[22Mar2025 19:56:18.878] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_log_bridge_middle removed now.
+[22Mar2025 19:56:18.878] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:hellbark_log_bridge_middle removed now.
+[22Mar2025 19:56:18.878] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:hellbark_highley_gate removed now.
+[22Mar2025 19:56:18.878] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:willow_wired_fence removed now.
+[22Mar2025 19:56:18.878] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[22Mar2025 19:56:18.878] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:magic_wired_fence removed now.
+[22Mar2025 19:56:18.879] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:warm_blossom_seed_to_quark_orange_blossom_sapling removed now.
+[22Mar2025 19:56:18.879] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_redwood_sapling_to_small_redwood_seed removed now.
+[22Mar2025 19:56:18.879] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:willow_rail_bridge removed now.
+[22Mar2025 19:56:18.879] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:jacaranda_horse_fence removed now.
+[22Mar2025 19:56:18.879] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:autumnity_yellow_maple_sapling_to_yellow_maple_seed removed now.
+[22Mar2025 19:56:18.879] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:pink_cherry_hedge removed now.
+[22Mar2025 19:56:18.879] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[22Mar2025 19:56:18.879] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:fir_log_bridge_middle removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:umbran_hedge removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:mahogany_horse_fence removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:cherry_rail_bridge removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:magic_rail_bridge removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_white_cherry_sapling_to_white_cherry_seed removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_white_cherry_sapling_to_pink_cherry_seed removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_rainbow_birch_sapling_to_rainbow_birch_seed removed now.
+[22Mar2025 19:56:18.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:palm_horse_fence removed now.
+[22Mar2025 19:56:18.881] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_glow_shroom_to_glow_shroom_seed removed now.
+[22Mar2025 19:56:18.881] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:orange_autumn_seed_to_biomesoplenty_orange_autumn_sapling removed now.
+[22Mar2025 19:56:18.881] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtquark:quark_orange_blossom_sapling_to_warm_blossom_seed removed now.
+[22Mar2025 19:56:18.881] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:orange_autumn_hedge removed now.
+[22Mar2025 19:56:18.881] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtautumnity:autumnity_red_maple_sapling_to_red_maple_seed removed now.
+[22Mar2025 19:56:18.881] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[22Mar2025 19:56:18.882] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[22Mar2025 19:56:18.882] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfencesbop:cherry_wired_fence removed now.
+[22Mar2025 19:56:18.882] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: macawsbridgesbop:redwood_log_bridge_stair removed now.
+[22Mar2025 19:56:18.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IanArmstrong1[/100.110.199.78:63541] logged in with entity id 8738 at (1829.944738671187, 70.0, -5314.680584771826)
+[22Mar2025 19:56:18.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 joined the game
+[22Mar2025 19:56:19.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 has reached the goal [Easter]
+[22Mar2025 19:56:19.097] [Server thread/INFO] [Jade/]: Syncing config to IanArmstrong1 (aee881d5-0802-4406-a3c2-b26fa0e307d9)
+[22Mar2025 19:56:21.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 19:56:48.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IanArmstrong1 lost connection: Disconnected
+[22Mar2025 19:56:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IanArmstrong1 left the game
+[22Mar2025 19:59:29.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 19:59:29.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:00:30.780] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player IanArmstrong1 is aee881d5-0802-4406-a3c2-b26fa0e307d9
+[22Mar2025 20:00:58.704] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6c14eedb[id=aee881d5-0802-4406-a3c2-b26fa0e307d9,name=IanArmstrong1,properties={textures=[com.mojang.authlib.properties.Property@147d5d1]},legacy=false] (/100.110.199.78:63576): Took too long to log in
+[22Mar2025 20:00:58.705] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c14eedb[id=aee881d5-0802-4406-a3c2-b26fa0e307d9,name=IanArmstrong1,properties={textures=[com.mojang.authlib.properties.Property@147d5d1]},legacy=false] (/100.110.199.78:63576) lost connection: Took too long to log in
+[22Mar2025 20:00:58.752] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 20:01:43.419] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player IanArmstrong1 is aee881d5-0802-4406-a3c2-b26fa0e307d9
+[22Mar2025 20:01:47.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:01:47.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:01:47.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:01:49.691] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:02:12.355] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5407210b[id=aee881d5-0802-4406-a3c2-b26fa0e307d9,name=IanArmstrong1,properties={textures=[com.mojang.authlib.properties.Property@2b1cefe3]},legacy=false] (/100.110.199.78:63595): Took too long to log in
+[22Mar2025 20:02:12.355] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5407210b[id=aee881d5-0802-4406-a3c2-b26fa0e307d9,name=IanArmstrong1,properties={textures=[com.mojang.authlib.properties.Property@2b1cefe3]},legacy=false] (/100.110.199.78:63595) lost connection: Took too long to log in
+[22Mar2025 20:02:12.405] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 20:03:00.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:03:00.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:03:20.541] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:03:38.792] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:06:53.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:07:20.792] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:11:03.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:11:03.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:11:09.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:12:44.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 20:12:44.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
