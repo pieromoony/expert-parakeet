@@ -1147,6 +1147,12 @@
     },
     "done": true
   },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-03-22 02:15:40 +0000"
+    },
+    "done": true
+  },
   "furnish:a_fine_gourmet": {
     "criteria": {
       "chinese_plate": "2025-01-26 05:31:59 +0000"
