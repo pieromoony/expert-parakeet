@@ -381,6 +381,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 21:34:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2024-08-27 02:58:23 +0000"
@@ -1662,6 +1668,12 @@
   "pizzacraft:root": {
     "criteria": {
       "tick": "2024-08-27 02:58:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 21:43:26 +0000"
     },
     "done": true
   },
