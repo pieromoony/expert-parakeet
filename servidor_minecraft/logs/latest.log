@@ -4842,3 +4842,18 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [22Mar2025 23:26:03.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [22Mar2025 23:26:06.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [22Mar2025 23:26:06.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 23:27:17.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt is bleeding. DylanDirnt was blown up by Deeper
+[22Mar2025 23:27:17.861] [Server thread/WARN] [tombstone/]: The death event of the player DylanDirnt was canceled by another mod
+[22Mar2025 23:27:17.914] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[22Mar2025 23:27:35.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt was blown up by Deeper
+[22Mar2025 23:27:36.969] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22Mar2025 23:28:25.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 23:31:13.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[22Mar2025 23:33:47.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt is bleeding. DylanDirnt was slain by Cave Spider
+[22Mar2025 23:33:47.359] [Server thread/WARN] [tombstone/]: The death event of the player DylanDirnt was canceled by another mod
+[22Mar2025 23:33:47.440] [Server thread/INFO] [tombstone/]: The player DylanDirnt has successfully been saved
+[22Mar2025 23:33:53.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt was slain by Cave Spider
+[22Mar2025 23:33:53.308] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DylanDirnt with unique ID travelersbackpack.bat_22.03.2025-23.33.53.dat
+[22Mar2025 23:33:53.308] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2424 Y: 11 Z: -6844
+[22Mar2025 23:33:54.903] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22Mar2025 23:37:04.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
