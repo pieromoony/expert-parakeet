@@ -4133,3 +4133,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [23Mar2025 08:46:23.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DylanDirnt left the game
 [23Mar2025 08:51:56.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
 [23Mar2025 08:52:53.109] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Mar2025 08:56:20.407] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Mar2025 09:00:18.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Mar2025 09:01:19.706] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Mar2025 09:01:24.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Mar2025 09:03:03.455] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[23Mar2025 09:03:03.456] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
