@@ -280,6 +280,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chorus_fruit": "2025-03-23 03:27:06 +0000",
       "baked_potato": "2024-08-27 04:48:50 +0000",
       "abnormals_delight:onion": "2024-09-04 03:28:02 +0000",
       "neapolitan:strawberries": "2025-01-18 06:39:05 +0000",
@@ -534,6 +535,12 @@
   "beachparty:beachpartycabinet": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-03-23 03:17:47 +0000"
     },
     "done": true
   },
@@ -813,6 +820,7 @@
       "minecraft:stray": "2025-03-22 23:24:14 +0000",
       "caverns_and_chasms:mime": "2025-02-23 21:42:53 +0000",
       "minecraft:zombie": "2024-09-04 05:32:54 +0000",
+      "minecraft:drowned": "2025-03-23 03:05:58 +0000",
       "minecraft:zombie_villager": "2024-08-27 03:46:38 +0000"
     },
     "done": false
@@ -1586,7 +1594,9 @@
       "minecraft:river": "2024-08-27 03:24:41 +0000",
       "minecraft:lukewarm_ocean": "2024-09-03 05:27:49 +0000",
       "minecraft:stony_shore": "2024-09-03 05:14:50 +0000",
+      "environmental:pine_barrens": "2025-03-23 03:14:46 +0000",
       "autumnity:maple_forest": "2024-08-27 04:27:04 +0000",
+      "environmental:blossom_woods": "2025-03-23 03:00:08 +0000",
       "autumnity:pumpkin_fields": "2024-09-03 05:14:06 +0000",
       "minecraft:cold_ocean": "2024-08-27 04:21:23 +0000",
       "minecraft:forest": "2024-09-03 05:32:43 +0000",
@@ -1824,9 +1834,11 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "darkthread": "2025-02-05 03:05:25 +0000",
+      "amethyst_bronze": "2025-03-23 03:21:36 +0000",
       "cobalt": "2025-02-05 03:05:25 +0000",
       "rock": "2024-09-04 04:50:35 +0000",
       "wood": "2024-09-04 04:49:02 +0000",
+      "pig_iron": "2025-03-23 03:23:02 +0000",
       "iron": "2025-02-05 03:05:25 +0000"
     },
     "done": false
