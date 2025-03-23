@@ -482,14 +482,18 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:tropical_forest_river": "2025-03-23 04:45:21 +0000",
       "wythers:highland_plains": "2025-01-18 04:42:52 +0000",
+      "wythers:tropical_forest_canyon": "2025-03-23 04:45:10 +0000",
       "wythers:black_river": "2025-01-18 06:53:15 +0000",
       "wythers:autumnal_plains": "2025-01-18 04:42:40 +0000",
       "wythers:forest_edge": "2025-01-18 04:47:36 +0000",
       "wythers:autumnal_forest": "2025-01-18 04:35:08 +0000",
       "wythers:autumnal_forest_edge": "2025-01-18 04:42:33 +0000",
+      "wythers:dry_tropical_grassland": "2025-03-23 04:50:13 +0000",
       "wythers:gravelly_river": "2024-09-03 05:16:13 +0000",
       "wythers:gravelly_beach": "2025-01-18 03:41:19 +0000",
+      "wythers:scrub_forest": "2025-03-23 04:49:55 +0000",
       "wythers:cool_stony_canyons": "2025-01-18 04:53:46 +0000",
       "wythers:stony_canyon": "2025-01-18 04:49:22 +0000",
       "wythers:scrubland": "2025-02-01 00:54:24 +0000",
@@ -1606,6 +1610,7 @@
       "minecraft:savanna_plateau": "2025-01-18 03:55:38 +0000",
       "minecraft:beach": "2024-08-27 03:48:26 +0000",
       "minecraft:dark_forest": "2025-01-18 04:36:54 +0000",
+      "minecraft:sparse_jungle": "2025-03-23 05:01:19 +0000",
       "minecraft:river": "2024-08-27 03:24:41 +0000",
       "minecraft:lukewarm_ocean": "2024-09-03 05:27:49 +0000",
       "minecraft:stony_shore": "2024-09-03 05:14:50 +0000",
@@ -1613,6 +1618,7 @@
       "autumnity:maple_forest": "2024-08-27 04:27:04 +0000",
       "environmental:blossom_woods": "2025-03-23 03:00:08 +0000",
       "autumnity:pumpkin_fields": "2024-09-03 05:14:06 +0000",
+      "atmospheric:dunes": "2025-03-23 04:50:23 +0000",
       "minecraft:cold_ocean": "2024-08-27 04:21:23 +0000",
       "minecraft:forest": "2024-09-03 05:32:43 +0000",
       "minecraft:deep_cold_ocean": "2024-09-03 05:17:28 +0000",
@@ -1622,6 +1628,7 @@
       "minecraft:flower_forest": "2025-01-26 04:11:53 +0000",
       "minecraft:old_growth_birch_forest": "2024-08-27 03:29:07 +0000",
       "minecraft:meadow": "2025-01-18 04:52:39 +0000",
+      "atmospheric:petrified_dunes": "2025-03-23 04:51:07 +0000",
       "minecraft:savanna": "2024-09-03 06:19:43 +0000",
       "minecraft:plains": "2024-09-03 05:33:27 +0000"
     },
@@ -1798,6 +1805,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-23 04:57:19 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2024-09-04 04:49:02 +0000"
@@ -1819,6 +1832,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2024-08-27 03:26:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-03-23 04:57:22 +0000"
     },
     "done": true
   },
