@@ -496,7 +496,9 @@
       "wythers:badlands_canyon": "2025-01-18 04:31:11 +0000",
       "wythers:humid_tropical_grassland": "2024-09-04 05:17:29 +0000",
       "wythers:tropical_forest": "2024-09-04 05:19:09 +0000",
+      "wythers:cool_plains": "2025-03-23 02:47:44 +0000",
       "wythers:underground": "2025-01-18 04:22:47 +0000",
+      "wythers:cool_forest_edge": "2025-03-23 02:44:08 +0000",
       "wythers:autumnal_birch_forest": "2025-02-23 03:48:26 +0000",
       "wythers:badlands_river": "2024-09-04 06:30:00 +0000",
       "wythers:granite_canyon": "2025-02-01 00:49:42 +0000",
@@ -1194,6 +1196,12 @@
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-27 03:19:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-03-23 02:22:52 +0000"
     },
     "done": true
   },
