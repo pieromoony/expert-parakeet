@@ -495,6 +495,7 @@
       "wythers:scrubland": "2025-02-01 00:54:24 +0000",
       "wythers:forested_highlands": "2025-01-18 05:38:08 +0000",
       "wythers:badlands_canyon": "2025-01-18 04:31:11 +0000",
+      "wythers:cold_plains": "2025-03-23 04:06:26 +0000",
       "wythers:humid_tropical_grassland": "2024-09-04 05:17:29 +0000",
       "wythers:tropical_forest": "2024-09-04 05:19:09 +0000",
       "wythers:cool_plains": "2025-03-23 02:47:44 +0000",
@@ -509,10 +510,17 @@
       "wythers:forbidden_forest": "2025-01-29 20:56:18 +0000",
       "wythers:coastal_mangroves": "2024-09-03 05:29:11 +0000",
       "wythers:badlands_desert": "2024-09-04 06:52:35 +0000",
+      "wythers:harvest_fields": "2025-03-23 04:01:03 +0000",
       "wythers:sand_dunes": "2025-01-18 03:45:17 +0000",
       "wythers:mediterranean_island": "2024-09-03 05:23:09 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-23 04:12:31 +0000"
+    },
+    "done": true
   },
   "takesapillage:root": {
     "criteria": {
@@ -888,6 +896,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2025-02-02 20:21:11 +0000",
+      "smithingtable": "2025-03-23 03:56:37 +0000",
       "blastfurnace": "2024-09-04 03:48:11 +0000",
       "stonecutter": "2025-01-18 08:22:49 +0000"
     },
@@ -1074,6 +1083,12 @@
       "location0": "2024-09-04 05:01:52 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2025-03-23 04:07:57 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
