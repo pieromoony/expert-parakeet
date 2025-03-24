@@ -25643,3 +25643,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [24Mar2025 20:18:58.011] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48f92bd9[id=09e0a1b0-3992-4986-9024-b06ef7fe770a,name=DylanDirnt,properties={textures=[com.mojang.authlib.properties.Property@21a00d38]},legacy=false] (/100.111.106.62:54628) lost connection: Disconnected
 [24Mar2025 20:23:42.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
 [24Mar2025 20:23:42.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[24Mar2025 20:28:42.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[24Mar2025 20:28:42.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[24Mar2025 20:33:42.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[24Mar2025 20:33:42.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
