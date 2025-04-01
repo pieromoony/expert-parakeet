@@ -3473,3 +3473,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [01Apr2025 19:30:15.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Moony_3[/100.81.13.59:54107] logged in with entity id 3177 at (2021.9448972388534, 64.0, -5456.8423706474405)
 [01Apr2025 19:30:15.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moony_3 joined the game
 [01Apr2025 19:30:15.743] [Server thread/INFO] [Jade/]: Syncing config to Moony_3 (6a3b50f1-f316-4d42-a903-43a0f178adff)
+[01Apr2025 19:30:47.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moony_3 lost connection: Disconnected
+[01Apr2025 19:30:47.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moony_3 left the game
