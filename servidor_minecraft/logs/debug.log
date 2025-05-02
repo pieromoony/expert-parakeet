@@ -25779,3 +25779,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [02May2025 18:29:58.681] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [02May2025 18:32:47.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
 [02May2025 18:32:47.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[02May2025 18:37:47.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[02May2025 18:37:47.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
+[02May2025 18:42:47.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Sonder
+[02May2025 18:42:47.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Sonder
