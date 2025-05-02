@@ -1213,6 +1213,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/pass_april_fool": {
+    "criteria": {
+      "coded_trigger": "2025-04-04 07:02:09 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-08-27 02:58:23 +0000"
