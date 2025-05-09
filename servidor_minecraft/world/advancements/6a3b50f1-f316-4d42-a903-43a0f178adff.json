@@ -1441,6 +1441,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-05-03 18:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-08-27 03:08:48 +0000"
